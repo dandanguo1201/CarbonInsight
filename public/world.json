@@ -1,0 +1,1082 @@
+[
+  {
+    "Time":"2019.01",
+    "Sector":"Domestic Aviation",
+    "Value":29.88819753
+  },
+  {
+    "Time":"2019.01",
+    "Sector":"Ground Transport",
+    "Value":585.0862233
+  },
+  {
+    "Time":"2019.01",
+    "Sector":"Industry",
+    "Value":880.9276121
+  },
+  {
+    "Time":"2019.01",
+    "Sector":"International Aviation",
+    "Value":21.9493361
+  },
+  {
+    "Time":"2019.01",
+    "Sector":"Power",
+    "Value":1347.9332691
+  },
+  {
+    "Time":"2019.01",
+    "Sector":"Residential",
+    "Value":624.6081449
+  },
+  {
+    "Time":"2019.02",
+    "Sector":"Domestic Aviation",
+    "Value":28.10937166
+  },
+  {
+    "Time":"2019.02",
+    "Sector":"Ground Transport",
+    "Value":546.600807
+  },
+  {
+    "Time":"2019.02",
+    "Sector":"Industry",
+    "Value":788.5388406
+  },
+  {
+    "Time":"2019.02",
+    "Sector":"International Aviation",
+    "Value":19.9634895
+  },
+  {
+    "Time":"2019.02",
+    "Sector":"Power",
+    "Value":1119.0544082
+  },
+  {
+    "Time":"2019.02",
+    "Sector":"Residential",
+    "Value":499.819013
+  },
+  {
+    "Time":"2019.03",
+    "Sector":"Domestic Aviation",
+    "Value":30.92105141
+  },
+  {
+    "Time":"2019.03",
+    "Sector":"Ground Transport",
+    "Value":603.416505
+  },
+  {
+    "Time":"2019.03",
+    "Sector":"Industry",
+    "Value":934.511051
+  },
+  {
+    "Time":"2019.03",
+    "Sector":"International Aviation",
+    "Value":22.4767523
+  },
+  {
+    "Time":"2019.03",
+    "Sector":"Power",
+    "Value":1155.6963346
+  },
+  {
+    "Time":"2019.03",
+    "Sector":"Residential",
+    "Value":417.6152169
+  },
+  {
+    "Time":"2019.04",
+    "Sector":"Domestic Aviation",
+    "Value":30.37822296
+  },
+  {
+    "Time":"2019.04",
+    "Sector":"Ground Transport",
+    "Value":587.302731
+  },
+  {
+    "Time":"2019.04",
+    "Sector":"Industry",
+    "Value":926.8344996
+  },
+  {
+    "Time":"2019.04",
+    "Sector":"International Aviation",
+    "Value":23.6047954
+  },
+  {
+    "Time":"2019.04",
+    "Sector":"Power",
+    "Value":1045.5135591
+  },
+  {
+    "Time":"2019.04",
+    "Sector":"Residential",
+    "Value":299.6819669
+  },
+  {
+    "Time":"2019.05",
+    "Sector":"Domestic Aviation",
+    "Value":32.04135198
+  },
+  {
+    "Time":"2019.05",
+    "Sector":"Ground Transport",
+    "Value":608.708951
+  },
+  {
+    "Time":"2019.05",
+    "Sector":"Industry",
+    "Value":961.260459
+  },
+  {
+    "Time":"2019.05",
+    "Sector":"International Aviation",
+    "Value":25.1332286
+  },
+  {
+    "Time":"2019.05",
+    "Sector":"Power",
+    "Value":1048.0920692
+  },
+  {
+    "Time":"2019.05",
+    "Sector":"Residential",
+    "Value":236.0550975
+  },
+  {
+    "Time":"2019.06",
+    "Sector":"Domestic Aviation",
+    "Value":32.03595644
+  },
+  {
+    "Time":"2019.06",
+    "Sector":"Ground Transport",
+    "Value":565.17923
+  },
+  {
+    "Time":"2019.06",
+    "Sector":"Industry",
+    "Value":941.8856936
+  },
+  {
+    "Time":"2019.06",
+    "Sector":"International Aviation",
+    "Value":25.8994531
+  },
+  {
+    "Time":"2019.06",
+    "Sector":"Power",
+    "Value":1095.0555964
+  },
+  {
+    "Time":"2019.06",
+    "Sector":"Residential",
+    "Value":168.2281006
+  },
+  {
+    "Time":"2019.07",
+    "Sector":"Domestic Aviation",
+    "Value":33.44790232
+  },
+  {
+    "Time":"2019.07",
+    "Sector":"Ground Transport",
+    "Value":588.486623
+  },
+  {
+    "Time":"2019.07",
+    "Sector":"Industry",
+    "Value":946.4012876
+  },
+  {
+    "Time":"2019.07",
+    "Sector":"International Aviation",
+    "Value":27.1582172
+  },
+  {
+    "Time":"2019.07",
+    "Sector":"Power",
+    "Value":1251.59297
+  },
+  {
+    "Time":"2019.07",
+    "Sector":"Residential",
+    "Value":160.2966062
+  },
+  {
+    "Time":"2019.08",
+    "Sector":"Domestic Aviation",
+    "Value":33.22997258
+  },
+  {
+    "Time":"2019.08",
+    "Sector":"Ground Transport",
+    "Value":590.641909
+  },
+  {
+    "Time":"2019.08",
+    "Sector":"Industry",
+    "Value":943.0314562
+  },
+  {
+    "Time":"2019.08",
+    "Sector":"International Aviation",
+    "Value":26.9654091
+  },
+  {
+    "Time":"2019.08",
+    "Sector":"Power",
+    "Value":1270.4821787
+  },
+  {
+    "Time":"2019.08",
+    "Sector":"Residential",
+    "Value":160.7281467
+  },
+  {
+    "Time":"2019.09",
+    "Sector":"Domestic Aviation",
+    "Value":31.54860452
+  },
+  {
+    "Time":"2019.09",
+    "Sector":"Ground Transport",
+    "Value":562.949725
+  },
+  {
+    "Time":"2019.09",
+    "Sector":"Industry",
+    "Value":938.6206299
+  },
+  {
+    "Time":"2019.09",
+    "Sector":"International Aviation",
+    "Value":25.4876718
+  },
+  {
+    "Time":"2019.09",
+    "Sector":"Power",
+    "Value":1150.937474
+  },
+  {
+    "Time":"2019.09",
+    "Sector":"Residential",
+    "Value":189.082793
+  },
+  {
+    "Time":"2019.10",
+    "Sector":"Domestic Aviation",
+    "Value":32.32220654
+  },
+  {
+    "Time":"2019.10",
+    "Sector":"Ground Transport",
+    "Value":605.977097
+  },
+  {
+    "Time":"2019.10",
+    "Sector":"Industry",
+    "Value":945.0235143
+  },
+  {
+    "Time":"2019.10",
+    "Sector":"International Aviation",
+    "Value":24.7070463
+  },
+  {
+    "Time":"2019.10",
+    "Sector":"Power",
+    "Value":1108.1086587
+  },
+  {
+    "Time":"2019.10",
+    "Sector":"Residential",
+    "Value":266.9141333
+  },
+  {
+    "Time":"2019.11",
+    "Sector":"Domestic Aviation",
+    "Value":31.18677354
+  },
+  {
+    "Time":"2019.11",
+    "Sector":"Ground Transport",
+    "Value":609.126709
+  },
+  {
+    "Time":"2019.11",
+    "Sector":"Industry",
+    "Value":950.5121541
+  },
+  {
+    "Time":"2019.11",
+    "Sector":"International Aviation",
+    "Value":21.7690954
+  },
+  {
+    "Time":"2019.11",
+    "Sector":"Power",
+    "Value":1159.277886
+  },
+  {
+    "Time":"2019.11",
+    "Sector":"Residential",
+    "Value":411.0324942
+  },
+  {
+    "Time":"2019.12",
+    "Sector":"Domestic Aviation",
+    "Value":32.977976048
+  },
+  {
+    "Time":"2019.12",
+    "Sector":"Ground Transport",
+    "Value":611.461244
+  },
+  {
+    "Time":"2019.12",
+    "Sector":"Industry",
+    "Value":952.3226941
+  },
+  {
+    "Time":"2019.12",
+    "Sector":"International Aviation",
+    "Value":22.8077018
+  },
+  {
+    "Time":"2019.12",
+    "Sector":"Power",
+    "Value":1271.6018722
+  },
+  {
+    "Time":"2019.12",
+    "Sector":"Residential",
+    "Value":554.0609162
+  },
+  {
+    "Time":"2020.01",
+    "Sector":"Domestic Aviation",
+    "Value":32.00452065
+  },
+  {
+    "Time":"2020.01",
+    "Sector":"Ground Transport",
+    "Value":585.122297
+  },
+  {
+    "Time":"2020.01",
+    "Sector":"Industry",
+    "Value":877.3564149
+  },
+  {
+    "Time":"2020.01",
+    "Sector":"International Aviation",
+    "Value":22.4947085
+  },
+  {
+    "Time":"2020.01",
+    "Sector":"Power",
+    "Value":1272.4761887
+  },
+  {
+    "Time":"2020.01",
+    "Sector":"Residential",
+    "Value":578.5113719
+  },
+  {
+    "Time":"2020.02",
+    "Sector":"Domestic Aviation",
+    "Value":26.56031736
+  },
+  {
+    "Time":"2020.02",
+    "Sector":"Ground Transport",
+    "Value":524.536114
+  },
+  {
+    "Time":"2020.02",
+    "Sector":"Industry",
+    "Value":776.7746899
+  },
+  {
+    "Time":"2020.02",
+    "Sector":"International Aviation",
+    "Value":18.5741714
+  },
+  {
+    "Time":"2020.02",
+    "Sector":"Power",
+    "Value":1047.8286067
+  },
+  {
+    "Time":"2020.02",
+    "Sector":"Residential",
+    "Value":474.888238
+  },
+  {
+    "Time":"2020.03",
+    "Sector":"Domestic Aviation",
+    "Value":24.59722023
+  },
+  {
+    "Time":"2020.03",
+    "Sector":"Ground Transport",
+    "Value":495.7363673
+  },
+  {
+    "Time":"2020.03",
+    "Sector":"Industry",
+    "Value":868.9137498
+  },
+  {
+    "Time":"2020.03",
+    "Sector":"International Aviation",
+    "Value":13.81751052
+  },
+  {
+    "Time":"2020.03",
+    "Sector":"Power",
+    "Value":1061.8248346
+  },
+  {
+    "Time":"2020.03",
+    "Sector":"Residential",
+    "Value":403.5687051
+  },
+  {
+    "Time":"2020.04",
+    "Sector":"Domestic Aviation",
+    "Value":10.133631269
+  },
+  {
+    "Time":"2020.04",
+    "Sector":"Ground Transport",
+    "Value":386.1123012
+  },
+  {
+    "Time":"2020.04",
+    "Sector":"Industry",
+    "Value":818.9501988
+  },
+  {
+    "Time":"2020.04",
+    "Sector":"International Aviation",
+    "Value":4.55149821
+  },
+  {
+    "Time":"2020.04",
+    "Sector":"Power",
+    "Value":933.0552463
+  },
+  {
+    "Time":"2020.04",
+    "Sector":"Residential",
+    "Value":302.1324146
+  },
+  {
+    "Time":"2020.05",
+    "Sector":"Domestic Aviation",
+    "Value":11.360131562
+  },
+  {
+    "Time":"2020.05",
+    "Sector":"Ground Transport",
+    "Value":447.2557374
+  },
+  {
+    "Time":"2020.05",
+    "Sector":"Industry",
+    "Value":885.1697797
+  },
+  {
+    "Time":"2020.05",
+    "Sector":"International Aviation",
+    "Value":6.07763753
+  },
+  {
+    "Time":"2020.05",
+    "Sector":"Power",
+    "Value":983.0885458
+  },
+  {
+    "Time":"2020.05",
+    "Sector":"Residential",
+    "Value":224.0191771
+  },
+  {
+    "Time":"2020.06",
+    "Sector":"Domestic Aviation",
+    "Value":15.64054365
+  },
+  {
+    "Time":"2020.06",
+    "Sector":"Ground Transport",
+    "Value":515.0094957
+  },
+  {
+    "Time":"2020.06",
+    "Sector":"Industry",
+    "Value":902.3121039
+  },
+  {
+    "Time":"2020.06",
+    "Sector":"International Aviation",
+    "Value":6.31635843
+  },
+  {
+    "Time":"2020.06",
+    "Sector":"Power",
+    "Value":1062.4392437
+  },
+  {
+    "Time":"2020.06",
+    "Sector":"Residential",
+    "Value":172.8055403
+  },
+  {
+    "Time":"2020.07",
+    "Sector":"Domestic Aviation",
+    "Value":21.648727186
+  },
+  {
+    "Time":"2020.07",
+    "Sector":"Ground Transport",
+    "Value":554.521969
+  },
+  {
+    "Time":"2020.07",
+    "Sector":"Industry",
+    "Value":919.7569093
+  },
+  {
+    "Time":"2020.07",
+    "Sector":"International Aviation",
+    "Value":8.65926604
+  },
+  {
+    "Time":"2020.07",
+    "Sector":"Power",
+    "Value":1209.3869922
+  },
+  {
+    "Time":"2020.07",
+    "Sector":"Residential",
+    "Value":160.9240126
+  },
+  {
+    "Time":"2020.08",
+    "Sector":"Domestic Aviation",
+    "Value":23.42440693
+  },
+  {
+    "Time":"2020.08",
+    "Sector":"Ground Transport",
+    "Value":553.065294
+  },
+  {
+    "Time":"2020.08",
+    "Sector":"Industry",
+    "Value":924.8096653
+  },
+  {
+    "Time":"2020.08",
+    "Sector":"International Aviation",
+    "Value":9.92088907
+  },
+  {
+    "Time":"2020.08",
+    "Sector":"Power",
+    "Value":1263.6077709
+  },
+  {
+    "Time":"2020.08",
+    "Sector":"Residential",
+    "Value":158.6577714
+  },
+  {
+    "Time":"2020.09",
+    "Sector":"Domestic Aviation",
+    "Value":22.17432354
+  },
+  {
+    "Time":"2020.09",
+    "Sector":"Ground Transport",
+    "Value":562.422691
+  },
+  {
+    "Time":"2020.09",
+    "Sector":"Industry",
+    "Value":935.9993056
+  },
+  {
+    "Time":"2020.09",
+    "Sector":"International Aviation",
+    "Value":9.43949361
+  },
+  {
+    "Time":"2020.09",
+    "Sector":"Power",
+    "Value":1122.0310199
+  },
+  {
+    "Time":"2020.09",
+    "Sector":"Residential",
+    "Value":189.0059758
+  },
+  {
+    "Time":"2020.10",
+    "Sector":"Domestic Aviation",
+    "Value":23.42492585
+  },
+  {
+    "Time":"2020.10",
+    "Sector":"Ground Transport",
+    "Value":575.906187
+  },
+  {
+    "Time":"2020.10",
+    "Sector":"Industry",
+    "Value":952.6911427
+  },
+  {
+    "Time":"2020.10",
+    "Sector":"International Aviation",
+    "Value":9.50312207
+  },
+  {
+    "Time":"2020.10",
+    "Sector":"Power",
+    "Value":1074.2340994
+  },
+  {
+    "Time":"2020.10",
+    "Sector":"Residential",
+    "Value":280.8586131
+  },
+  {
+    "Time":"2020.11",
+    "Sector":"Domestic Aviation",
+    "Value":23.00921917
+  },
+  {
+    "Time":"2020.11",
+    "Sector":"Ground Transport",
+    "Value":544.553841
+  },
+  {
+    "Time":"2020.11",
+    "Sector":"Industry",
+    "Value":953.6725192
+  },
+  {
+    "Time":"2020.11",
+    "Sector":"International Aviation",
+    "Value":9.36890596
+  },
+  {
+    "Time":"2020.11",
+    "Sector":"Power",
+    "Value":1150.3430076
+  },
+  {
+    "Time":"2020.11",
+    "Sector":"Residential",
+    "Value":382.6794465
+  },
+  {
+    "Time":"2020.12",
+    "Sector":"Domestic Aviation",
+    "Value":25.081081475
+  },
+  {
+    "Time":"2020.12",
+    "Sector":"Ground Transport",
+    "Value":570.676417
+  },
+  {
+    "Time":"2020.12",
+    "Sector":"Industry",
+    "Value":954.2590912
+  },
+  {
+    "Time":"2020.12",
+    "Sector":"International Aviation",
+    "Value":10.29174664
+  },
+  {
+    "Time":"2020.12",
+    "Sector":"Power",
+    "Value":1325.751294
+  },
+  {
+    "Time":"2020.12",
+    "Sector":"Residential",
+    "Value":567.9550729
+  },
+  {
+    "Time":"2021.01",
+    "Sector":"Domestic Aviation",
+    "Value":21.778434869
+  },
+  {
+    "Time":"2021.01",
+    "Sector":"Ground Transport",
+    "Value":546.5975114
+  },
+  {
+    "Time":"2021.01",
+    "Sector":"Industry",
+    "Value":911.1319921
+  },
+  {
+    "Time":"2021.01",
+    "Sector":"International Aviation",
+    "Value":9.13213296
+  },
+  {
+    "Time":"2021.01",
+    "Sector":"Power",
+    "Value":1395.8417129
+  },
+  {
+    "Time":"2021.01",
+    "Sector":"Residential",
+    "Value":619.0978729
+  },
+  {
+    "Time":"2021.02",
+    "Sector":"Domestic Aviation",
+    "Value":18.993891328
+  },
+  {
+    "Time":"2021.02",
+    "Sector":"Ground Transport",
+    "Value":512.169218
+  },
+  {
+    "Time":"2021.02",
+    "Sector":"Industry",
+    "Value":779.7673356
+  },
+  {
+    "Time":"2021.02",
+    "Sector":"International Aviation",
+    "Value":8.0319562
+  },
+  {
+    "Time":"2021.02",
+    "Sector":"Power",
+    "Value":1073.0703414
+  },
+  {
+    "Time":"2021.02",
+    "Sector":"Residential",
+    "Value":492.048955
+  },
+  {
+    "Time":"2021.03",
+    "Sector":"Domestic Aviation",
+    "Value":26.243900939
+  },
+  {
+    "Time":"2021.03",
+    "Sector":"Ground Transport",
+    "Value":593.670355
+  },
+  {
+    "Time":"2021.03",
+    "Sector":"Industry",
+    "Value":960.4648997
+  },
+  {
+    "Time":"2021.03",
+    "Sector":"International Aviation",
+    "Value":9.6141787
+  },
+  {
+    "Time":"2021.03",
+    "Sector":"Power",
+    "Value":1186.7470825
+  },
+  {
+    "Time":"2021.03",
+    "Sector":"Residential",
+    "Value":413.6873717
+  },
+  {
+    "Time":"2021.04",
+    "Sector":"Domestic Aviation",
+    "Value":26.90150154
+  },
+  {
+    "Time":"2021.04",
+    "Sector":"Ground Transport",
+    "Value":567.73785
+  },
+  {
+    "Time":"2021.04",
+    "Sector":"Industry",
+    "Value":954.6352706
+  },
+  {
+    "Time":"2021.04",
+    "Sector":"International Aviation",
+    "Value":9.83530687
+  },
+  {
+    "Time":"2021.04",
+    "Sector":"Power",
+    "Value":1059.9128174
+  },
+  {
+    "Time":"2021.04",
+    "Sector":"Residential",
+    "Value":326.1741376
+  },
+  {
+    "Time":"2021.05",
+    "Sector":"Domestic Aviation",
+    "Value":27.47173542
+  },
+  {
+    "Time":"2021.05",
+    "Sector":"Ground Transport",
+    "Value":570.960326
+  },
+  {
+    "Time":"2021.05",
+    "Sector":"Industry",
+    "Value":959.5458074
+  },
+  {
+    "Time":"2021.05",
+    "Sector":"International Aviation",
+    "Value":10.47653883
+  },
+  {
+    "Time":"2021.05",
+    "Sector":"Power",
+    "Value":1047.3405357
+  },
+  {
+    "Time":"2021.05",
+    "Sector":"Residential",
+    "Value":236.8083608
+  },
+  {
+    "Time":"2021.06",
+    "Sector":"Domestic Aviation",
+    "Value":28.39135233
+  },
+  {
+    "Time":"2021.06",
+    "Sector":"Ground Transport",
+    "Value":566.572956
+  },
+  {
+    "Time":"2021.06",
+    "Sector":"Industry",
+    "Value":942.6850286
+  },
+  {
+    "Time":"2021.06",
+    "Sector":"International Aviation",
+    "Value":11.5905932
+  },
+  {
+    "Time":"2021.06",
+    "Sector":"Power",
+    "Value":1148.1816359
+  },
+  {
+    "Time":"2021.06",
+    "Sector":"Residential",
+    "Value":164.2937031
+  },
+  {
+    "Time":"2021.07",
+    "Sector":"Domestic Aviation",
+    "Value":31.15565354
+  },
+  {
+    "Time":"2021.07",
+    "Sector":"Ground Transport",
+    "Value":565.8020738
+  },
+  {
+    "Time":"2021.07",
+    "Sector":"Industry",
+    "Value":924.0275006
+  },
+  {
+    "Time":"2021.07",
+    "Sector":"International Aviation",
+    "Value":14.33922579
+  },
+  {
+    "Time":"2021.07",
+    "Sector":"Power",
+    "Value":1284.3975854
+  },
+  {
+    "Time":"2021.07",
+    "Sector":"Residential",
+    "Value":156.247492
+  },
+  {
+    "Time":"2021.08",
+    "Sector":"Domestic Aviation",
+    "Value":28.76497061
+  },
+  {
+    "Time":"2021.08",
+    "Sector":"Ground Transport",
+    "Value":565.771909
+  },
+  {
+    "Time":"2021.08",
+    "Sector":"Industry",
+    "Value":920.8970448
+  },
+  {
+    "Time":"2021.08",
+    "Sector":"International Aviation",
+    "Value":15.22935289
+  },
+  {
+    "Time":"2021.08",
+    "Sector":"Power",
+    "Value":1284.4105496
+  },
+  {
+    "Time":"2021.08",
+    "Sector":"Residential",
+    "Value":164.3239373
+  },
+  {
+    "Time":"2021.09",
+    "Sector":"Domestic Aviation",
+    "Value":29.20677419
+  },
+  {
+    "Time":"2021.09",
+    "Sector":"Ground Transport",
+    "Value":585.74747
+  },
+  {
+    "Time":"2021.09",
+    "Sector":"Industry",
+    "Value":944.1395643
+  },
+  {
+    "Time":"2021.09",
+    "Sector":"International Aviation",
+    "Value":15.01185223
+  },
+  {
+    "Time":"2021.09",
+    "Sector":"Power",
+    "Value":1158.5288546
+  },
+  {
+    "Time":"2021.09",
+    "Sector":"Residential",
+    "Value":184.6960803
+  },
+  {
+    "Time":"2021.10",
+    "Sector":"Domestic Aviation",
+    "Value":29.74656094
+  },
+  {
+    "Time":"2021.10",
+    "Sector":"Ground Transport",
+    "Value":605.813577
+  },
+  {
+    "Time":"2021.10",
+    "Sector":"Industry",
+    "Value":897.2156787
+  },
+  {
+    "Time":"2021.10",
+    "Sector":"International Aviation",
+    "Value":15.77147335
+  },
+  {
+    "Time":"2021.10",
+    "Sector":"Power",
+    "Value":1106.7623425
+  },
+  {
+    "Time":"2021.10",
+    "Sector":"Residential",
+    "Value":277.909332
+  },
+  {
+    "Time":"2021.11",
+    "Sector":"Domestic Aviation",
+    "Value":27.9381991
+  },
+  {
+    "Time":"2021.11",
+    "Sector":"Ground Transport",
+    "Value":591.570724
+  },
+  {
+    "Time":"2021.11",
+    "Sector":"Industry",
+    "Value":898.0887233
+  },
+  {
+    "Time":"2021.11",
+    "Sector":"International Aviation",
+    "Value":15.13558353
+  },
+  {
+    "Time":"2021.11",
+    "Sector":"Power",
+    "Value":1159.6823866
+  },
+  {
+    "Time":"2021.11",
+    "Sector":"Residential",
+    "Value":415.2076377
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Domestic Aviation",
+    "Value":29.843461482
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Ground Transport",
+    "Value":602.2125588
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Industry",
+    "Value":943.4949342
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"International Aviation",
+    "Value":16.09368068
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Power",
+    "Value":1291.6606001
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Residential",
+    "Value":544.2610383
+  }
+]
