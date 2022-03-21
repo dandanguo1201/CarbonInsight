@@ -1,57 +1,89 @@
 <template>
-  <div class="emission" :style="{ position: pos }">
-    <div class="emissionheader">
-      <header-new
-        @tohome="tohome"
-        @tomenu="tomenu"
-        :sign="false"
-        :tab="tab"
-        :menu="menu"
-      />
-    </div>
-    <div  class="datadashboard">
-      <div class="title">
-        <span>{{title}}</span>
-        <span>{{time}} </span>
+  <div>
+    <div class="emission" :style="{ position: pos, height: height + 'px' }">
+      <div class="emissionheader">
+        <header-new
+          @tohome="tohome"
+          @tomenu="tomenu"
+          :sign="false"
+          :tab="tab"
+          :menu="menu"
+        />
       </div>
-      <div class="word">
-        <span>{{words}}</span>
-        <span v-show="tips">Explore data based on your interest in our interactable Power BI reports</span>
-        <a target="_blank" href="https://github.com/microsoft/Carbon-Insight/tree/main/powerbi" @mouseover="tips = !tips" @mouseleave="tips = !tips">Download Power BI Reports<img src="../assets/icon_go.svg" alt="" /></a>
-      </div>
-    </div>
-    <div class="powerbi_gif">
-      <!-- <img :src="gifurl" alt="" /> -->
-      <video
-        class="video-js vjs-default-skin vjs-big-play-centered img"
-        id="myVideo"
-        controls:false
-        autoplay
-        muted
-        loop="loop"
-      >
-        <source :src="gifurl" type="video/mp4" />
-      </video>
-    </div>
-    <div class="bigTitle">Carbon emission featured data </div>
-    <viewer :images="images">
-      <div class="imgbox">
-        <div v-for="src in imagesDetails" :key="src.url">
-          <div class="tips" v-html="src.title"></div>
-          <div class="img">
-            <img :src="src.url" :alt="src.url | toSrc" />
+      <div class="datadashboard">
+        <div class="title">
+          <span>{{ title }}</span>
+          <span>{{ time }} </span>
+        </div>
+        <div class="word">
+          <span>{{ words }}</span>
+          <div>
+            <span
+              >Explore data based on your interest in our interactable Power BI
+              reports</span
+            >
+            <a
+              target="_blank"
+              href="https://github.com/microsoft/Carbon-Insight/tree/main/powerbi"
+              >Download Power BI Reports<img src="../assets/icon_go.svg" alt=""
+            /></a>
           </div>
         </div>
-        <div class="temp"></div>
       </div>
-    </viewer>
-    <div class="bottom">
-      <footer-new
-        @toemission="toemission"
-        @tosink="tosink"
-        @toaboutus="toaboutus"
-        :bgc="bgc"
-      />
+      <div class="powerbi_gif">
+        <!-- <img :src="gifurl" alt="" /> -->
+        <video
+          class="video-js vjs-default-skin vjs-big-play-centered img"
+          id="myVideo"
+          controls:false
+          autoplay
+          muted
+          loop="loop"
+        >
+          <source :src="gifurl" type="video/mp4" />
+        </video>
+      </div>
+      <div class="bigTitle">Carbon emission featured data</div>
+      <div>
+        <div class="imgbox">
+          <div
+            v-for="src in imagesDetails"
+            :key="src.url"
+            @click="details(src)"
+          >
+            <div class="tips" v-html="src.title"></div>
+            <div class="img">
+              <img :src="src.url" :alt="src.url | toSrc" />
+            </div>
+          </div>
+          <div class="temp"></div>
+        </div>
+      </div>
+      <div class="bottom">
+        <footer-new
+          @toemission="toemission"
+          @tosink="tosink"
+          @toaboutus="toaboutus"
+          :bgc="bgc"
+        />
+      </div>
+    </div>
+    <div
+      v-show="detailsflag"
+      class="detailsbox"
+      :style="{ height: '100%', width: '100%' }"
+    >
+      <div>
+        <div>
+          <div class="title">
+            <span>{{ detailstitle }}</span>
+          </div>
+          <img src="../assets/close.svg" alt="" @click="closeDetails" />
+        </div>
+        <div>
+          <img :src="detailsurl" alt="" />
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -95,29 +127,93 @@ export default {
       emission2,
       emission3,
       imagesTab1: [
-        { url: tab1_1, title: "Global Daily Carbon Emissions (Updated to Oct 31, 2021)"},
-        { url: tab1_2, title: "Daily carbon emissions in the US (Updated to Oct 31, 2021) " },
+        {
+          url: tab1_1,
+          title: "Global Daily Carbon Emissions (Updated to Oct 31, 2021)",
+        },
+        {
+          url: tab1_2,
+          title: "Daily carbon emissions in the US (Updated to Oct 31, 2021) ",
+        },
         { url: tab1_3, title: "Carbon emissions by sectors in China overtime" },
-        { url: tab1_4, title: "Carbon emissions by sectors in the US overtime" },
-        { url: tab1_5, title: "10 countries/regions with the highest carbon emissions in Europe in October 2021 (Russia, Poland, Germany, Netherlands, the UK, Italy, France, Spain, Belgium, Czechia)"},
-        { url: tab1_6, title: "10 countries/regions with the highest carbon emissions in Americas in October 2021 (the US, Canada, Brazil, Mexico, Argentina, Chile, Venezuela, Columbia, Peru, Ecuador)"},
-        { url: tab1_7, title: "10 countries/regions with the highest carbon emissions in Europe in October 2021 (Russia, Poland, Germany, Netherlands, the UK, Italy, France, Spain, Belgium, Czechia)" },
-        { url: tab1_8, title: "10 states with the highest carbon emissions in the US in October 2021  (Texas, California, Florida, Pennsylvania, Louisiana, Ohio, Indiana, Illinois, Missouri, Michigan)"},
-        { url: tab1_9, title: "Top left: Carbon emissions in China overtime; Top right: Sector breakdown of emissions in China overtime; Lower left: Monthly variations in carbon emissions from different sectors in China"},
-        { url: tab1_10, title: "Top left: Carbon emissions in the US overtime; Top right: Sector breakdown of emissions in the US overtime; Lower left: Monthly variations in carbon emissions from different sectors in the US" },
-        { url: tab1_11, title: "Variations of carbon emissions across different countries/regions since January 2019" },
-      
+        {
+          url: tab1_4,
+          title: "Carbon emissions by sectors in the US overtime",
+        },
+        {
+          url: tab1_5,
+          title:
+            "10 countries/regions with the highest carbon emissions in Europe in October 2021 (Russia, Poland, Germany, Netherlands, the UK, Italy, France, Spain, Belgium, Czechia)",
+        },
+        {
+          url: tab1_6,
+          title:
+            "10 countries/regions with the highest carbon emissions in Americas in October 2021 (the US, Canada, Brazil, Mexico, Argentina, Chile, Venezuela, Columbia, Peru, Ecuador)",
+        },
+        {
+          url: tab1_7,
+          title:
+            "10 countries/regions with the highest carbon emissions in Europe in October 2021 (Russia, Poland, Germany, Netherlands, the UK, Italy, France, Spain, Belgium, Czechia)",
+        },
+        {
+          url: tab1_8,
+          title:
+            "10 states with the highest carbon emissions in the US in October 2021  (Texas, California, Florida, Pennsylvania, Louisiana, Ohio, Indiana, Illinois, Missouri, Michigan)",
+        },
+        {
+          url: tab1_9,
+          title:
+            "Top left: Carbon emissions in China overtime; Top right: Sector breakdown of emissions in China overtime; Lower left: Monthly variations in carbon emissions from different sectors in China",
+        },
+        {
+          url: tab1_10,
+          title:
+            "Top left: Carbon emissions in the US overtime; Top right: Sector breakdown of emissions in the US overtime; Lower left: Monthly variations in carbon emissions from different sectors in the US",
+        },
+        {
+          url: tab1_11,
+          title:
+            "Variations of carbon emissions across different countries/regions since January 2019",
+        },
       ],
       imagesTab2: [
-        { url: tab2_1, title: "Variations in carbon emissions and confirmed COVID-19 cases in China "},
-        { url: tab2_2, title: "Variations in carbon emissions and confirmed COVID-19 cases in the US " },
-        { url: tab2_3, title: "Variations in carbon emissions and stringency index* in China <br/>*Stringency index is a number from 0 to 100 that reflects how strict a country’s measures were, including lockdown, school closures, travel bans, etc. A higher score indicates a stricter response (i.e. 100 = strictest response) "},
-        { url: tab2_4, title: "Variations in carbon emissions and stringency index* in the US <br/>*Stringency index is a number from 0 to 100 that reflects how strict a country’s measures were, including lockdown, school closures, travel bans, etc. A higher score indicates a stricter response (i.e. 100 = strictest response) "},
+        {
+          url: tab2_1,
+          title:
+            "Variations in carbon emissions and confirmed COVID-19 cases in China ",
+        },
+        {
+          url: tab2_2,
+          title:
+            "Variations in carbon emissions and confirmed COVID-19 cases in the US ",
+        },
+        {
+          url: tab2_3,
+          title:
+            "Variations in carbon emissions and stringency index* in China <br/>*Stringency index is a number from 0 to 100 that reflects how strict a country’s measures were, including lockdown, school closures, travel bans, etc. A higher score indicates a stricter response (i.e. 100 = strictest response) ",
+        },
+        {
+          url: tab2_4,
+          title:
+            "Variations in carbon emissions and stringency index* in the US <br/>*Stringency index is a number from 0 to 100 that reflects how strict a country’s measures were, including lockdown, school closures, travel bans, etc. A higher score indicates a stricter response (i.e. 100 = strictest response) ",
+        },
       ],
-      imagesTab3:[
-        { url: tab3_1, title: "Changes in CO2 per capita (tons) and GDP per capita (USD) in China" },
-        { url: tab3_2, title: "Changes in CO2 per capita (tons) and GDP per capita (USD) in the US "},
-        { url: tab3_3, title: "Changes in carbon intensity* and emissions from the previous year across different countries overtime <br/>*Carbon intensity is the measure of CO2 produced per US dollar GDP. A rapidly decreasing carbon intensity is beneficial for the environment and economy"},
+      imagesTab3: [
+        {
+          url: tab3_1,
+          title:
+            "Changes in CO2 per capita (tons) and GDP per capita (USD) in China",
+        },
+        {
+          url: tab3_2,
+          title:
+            "Changes in CO2 per capita (tons) and GDP per capita (USD) in the US ",
+        },
+        {
+          url: tab3_3,
+          title:
+            "Changes in carbon intensity* and emissions from the previous year across different countries overtime <br/>*Carbon intensity is the measure of CO2 produced per US dollar GDP. A rapidly decreasing carbon intensity is beneficial for the environment and economy",
+        },
       ],
       images: [
         tab1_1,
@@ -132,7 +228,7 @@ export default {
         tab1_10,
         tab1_11,
       ],
-      imagesDetails:[],
+      imagesDetails: [],
       gifurl: emission1,
       bgc: "background:#F9F9F9;",
       pos: "relative",
@@ -145,15 +241,22 @@ export default {
       selectImg: tabimg1,
       report: "1",
       menu: false,
+      width: null,
       tab: "emission1",
       title: "Carbon Emission Data Dashboard",
       time: "DATA AS OF 10/31/2021",
-      words:"Carbon Insight tracks anthropogenic CO2 emissions with a near-global coverage. In this section, you can browse the near-live carbon emissions of 206 countries and their historical emissions since January 2019. For the United States, state-level emissions are also available.",
-      tips:false
+      words:
+        "Carbon Insight tracks anthropogenic CO2 emissions with a near-global coverage. In this section, you can browse the near-live carbon emissions of 206 countries and their historical emissions since January 2019. For the United States, state-level emissions are also available.",
+      detailstitle: null,
+      detailsurl: null,
+      detailsflag: false,
+      height: null,
     };
   },
   created() {
-    this.changechart(this.$route.params.tab)
+    this.gifurl = this["emission" + this.$route.params.tab];
+    this.changechart(this.$route.params.tab);
+    this.setInfor(this.$route.params.tab);
     this.height =
       document.documentElement.clientHeight || document.body.clientHeight;
     var width =
@@ -172,7 +275,7 @@ export default {
     },
   },
   mounted() {
-    this.settab(this.$route.params.tab)
+    this.settab(this.$route.params.tab);
     document.addEventListener("click", (e) => {
       this.flag = false;
       if (e.path[1].id == "tab") {
@@ -180,29 +283,27 @@ export default {
         this.selectflag = false;
       }
     });
-    this.$nextTick(() => {
-      window.addEventListener("resize", () => {
-        //监听浏览器窗口大小改变
-        this.height =
-          document.documentElement.clientHeight || document.body.clientHeight;
-        var width =
-          document.documentElement.clientWidth || document.body.clientWidth;
-        if (width < 639) {
-          this.word = true;
-        } else {
-          this.word = false;
-        }
-      });
+    window.addEventListener("resize", () => {
+      //监听浏览器窗口大小改变
+      this.height =
+        document.documentElement.clientHeight || document.body.clientHeight;
+      var width =
+        document.documentElement.clientWidth || document.body.clientWidth;
+      if (width < 639) {
+        this.word = true;
+      } else {
+        this.word = false;
+      }
     });
   },
   watch: {
-    $route(to, from){
-      if(to.params.tab != from.params.tab){
-        this.settab(to.params.tab)
-        if(to.params.tab){
-          this.setInfor(to.params.tab)
-          this.changechart(to.params.tab)
-          this.playVideo(this["emission" + to.params.tab])
+    $route(to, from) {
+      if (to.params.tab != from.params.tab) {
+        this.settab(to.params.tab);
+        if (to.params.tab) {
+          this.setInfor(to.params.tab);
+          this.changechart(to.params.tab);
+          this.playVideo(this["emission" + to.params.tab]);
         }
       }
     },
@@ -221,37 +322,39 @@ export default {
     toflag() {
       this.flag = true;
     },
-    settab(params){
-      if(params){
-        this.tab = 'emission' + params
+    settab(params) {
+      if (params) {
+        this.tab = "emission" + params;
       }
     },
     tomenu(param) {
       this.menu = param;
     },
-    setInfor(params){
-      if(params === '1'){
-        this.title= "Carbon Emission Data Dashboard"
-        this.time = "DATA AS OF 10/31/2021"
-        this.words = "Carbon Insight tracks anthropogenic CO2 emissions with a near-global coverage. In this section, you can browse the near-live carbon emissions of 206 countries and their historical emissions since January 2019. For the United States, state-level emissions are also available."
-      }else if(params === '2'){
-        this.title= "Carbon Emission & COVID Data Dashboard"
-        this.time = "DATA AS OF 10/31/2021"
-        this.words = "This section lets you observe how carbon emissions in different countries change with the trends of the COVID-19 pandemic. The severity of the epidemic is shown in two aspects: the number of new diagnoses and the stringency and policy indices of governments."
-      }else{
-        this.title= "Carbon Emission & Economy Data Dashboard"
-        this.time = "DATA AS OF 2019"
-        this.words = "This section lets you compare the carbon intensity and the per capita emissions of different countries. You can observe how per capita emissions change over time in different countries and observe which countries have reduced their carbon intensity over time."
+    setInfor(params) {
+      if (params === "1") {
+        this.title = "Carbon Emission Data Dashboard";
+        this.time = "DATA AS OF 10/31/2021";
+        this.words =
+          "Carbon Insight tracks anthropogenic CO2 emissions with a near-global coverage. In this section, you can browse the near-live carbon emissions of 206 countries and their historical emissions since January 2019. For the United States, state-level emissions are also available.";
+      } else if (params === "2") {
+        this.title = "Carbon Emission & COVID Data Dashboard";
+        this.time = "DATA AS OF 10/31/2021";
+        this.words =
+          "This section lets you observe how carbon emissions in different countries change with the trends of the COVID-19 pandemic. The severity of the epidemic is shown in two aspects: the number of new diagnoses and the stringency and policy indices of governments.";
+      } else {
+        this.title = "Carbon Emission & Economy Data Dashboard";
+        this.time = "DATA AS OF 2019";
+        this.words =
+          "This section lets you compare the carbon intensity and the per capita emissions of different countries. You can observe how per capita emissions change over time in different countries and observe which countries have reduced their carbon intensity over time.";
       }
     },
-    playVideo(url){
-      let vdo = document.getElementById("myVideo")
-      vdo.src='';
-      vdo.src=url;
+    playVideo(url) {
+      let vdo = document.getElementById("myVideo");
+      vdo.src = "";
+      vdo.src = url;
       vdo.play();
     },
     changechart(param) {
-      // this.gifurl = this["emission" + item.key];
       this.selectChart = param;
       this.report = param;
       if (param === "1") {
@@ -268,14 +371,24 @@ export default {
           tab1_10,
           tab1_11,
         ];
-        this.imagesDetails = this.imagesTab1
+        this.imagesDetails = this.imagesTab1;
       } else if (param === "2") {
         this.images = [tab2_1, tab2_2, tab2_3, tab2_4];
-        this.imagesDetails = this.imagesTab2
+        this.imagesDetails = this.imagesTab2;
       } else {
         this.images = [tab3_1, tab3_2, tab3_3];
-        this.imagesDetails = this.imagesTab3
+        this.imagesDetails = this.imagesTab3;
       }
+    },
+    details(param) {
+      if (this.word === true) return;
+      console.log(param, "param");
+      this.detailstitle = param.title;
+      this.detailsurl = param.url;
+      this.detailsflag = true;
+    },
+    closeDetails() {
+      this.detailsflag = false;
     },
     getMenu() {
       console.log("ok");
@@ -285,8 +398,7 @@ export default {
       console.log(key, "2");
     },
     toemission(param) {
-      
-      this.$router.push("/carbonemission/"+ param);
+      this.$router.push("/carbonemission/" + param);
     },
     tohome() {
       this.$router.push("/carbonhome");
@@ -303,12 +415,7 @@ export default {
   },
 };
 </script>
-<style lang='scss' scoped>
-.emissionheader {
-  height: 100%;
-  height: 100%;
-  // border-bottom: 1px solid #3d342f;
-}
+<style lang="scss" scoped>
 #itemshield {
   position: relative;
   float: right;
@@ -337,18 +444,17 @@ export default {
 }
 .emission {
   width: 100%;
-  height: 100%;
+  overflow-y: scroll;
   .datadashboard {
     margin: 0 auto;
     max-width: 1464px;
-    padding: 0 40px 0;
+    padding: 0 40px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    // border: 1px solid red;
     .title {
       margin-top: 102px;
-      span{
+      span {
         display: block;
       }
       span:first-child {
@@ -371,51 +477,57 @@ export default {
     .word {
       margin-top: 102px;
       position: relative;
-      span{
+      span {
         display: block;
       }
-      span:nth-child(1){
+      > span {
         max-width: 674px;
         font-size: 18px;
         line-height: 27px;
         display: flex;
         align-items: center;
         text-align: justify;
-        color: #0B0B0B;
+        color: #0b0b0b;
       }
-      span:nth-child(2){
-        position: absolute;
-        bottom: 27px;
-        left: 0;
-        // margin-top: 20px;
-        height: 24px;
-        box-sizing: border-box;
-        background: #FFFFFF;
-        border: 1px solid #F2F2F2;
-        box-sizing: border-box;
-        border-radius: 60px;
-        font-size: 12px;
-        line-height: 22px;
-        color: #6F6F6F;
-        padding: 0 8px;
-      } 
-      a{
-        font-weight: bold;
-        font-size: 16px;
-        line-height: 27px;
-        display: flex;
-        align-items: center;
-        text-align: justify;
-        color: #137759;
-        margin-top: 44px;
-        cursor:pointer;
-        img{
-          margin-left: 8px;
+      > div {
+        span {
+          position: absolute;
+          bottom: 27px;
+          left: 0;
+          // margin-top: 20px;
+          height: 24px;
+          box-sizing: border-box;
+          background: #ffffff;
+          border: 1px solid #f2f2f2;
+          box-sizing: border-box;
+          border-radius: 60px;
+          font-size: 12px;
+          line-height: 22px;
+          color: #6f6f6f;
+          padding: 0 8px;
+          display: none;
         }
-      }
-      a:hover{
-        text-decoration-line: underline;
-        color: #137759;
+        a {
+          font-weight: bold;
+          font-size: 16px;
+          line-height: 27px;
+          display: flex;
+          align-items: center;
+          text-align: justify;
+          color: #137759;
+          margin-top: 44px;
+          cursor: pointer;
+          img {
+            margin-left: 8px;
+          }
+        }
+        a:hover {
+          text-decoration-line: underline;
+          color: #137759;
+        }
+        &:hover span {
+          display: block;
+        }
       }
     }
   }
@@ -446,12 +558,12 @@ export default {
     img {
       width: 100%;
     }
-    #myVideo{
+    #myVideo {
       width: 100%;
       height: 100%;
     }
   }
-  .bigTitle{
+  .bigTitle {
     font-weight: bold;
     font-size: 24px;
     line-height: 32px;
@@ -467,19 +579,18 @@ export default {
     padding: 0 40px;
     display: flex;
     justify-content: space-between;
-    // align-items: start;
     flex-wrap: wrap;
     color: #000000;
-    margin-bottom: -40px;
-    > div  {
+    padding-bottom: 79px;
+    > div {
       margin-bottom: 40px;
       max-width: 672px;
       // max-width: 632px;
       // max-width: 672px;
       // height: 522px;
       padding: 20px;
-      border: 1px solid #F2F2F2;
-      >div:first-child{
+      border: 1px solid #f2f2f2;
+      > div:first-child {
         width: 100%;
         font-weight: bold;
         font-size: 14px;
@@ -487,7 +598,7 @@ export default {
         color: #000000;
         margin-bottom: 24px;
       }
-      >div:last-child{
+      > div:last-child {
         max-width: 632px;
         display: flex;
         flex-direction: column;
@@ -500,8 +611,8 @@ export default {
         }
       }
     }
-    
-    .title{
+
+    .title {
       font-weight: bold;
       font-size: 20px;
       line-height: 27px;
@@ -516,10 +627,117 @@ export default {
       border: none;
       padding: 0;
     }
-   
   }
+}
+.detailsbox {
+  position: fixed;
+  z-index: 2000;
+  top: 0;
+  left: 0;
+  overflow-y: scroll;
+  background-color: #fff;
+  > div {
+    margin: 0 auto;
+    max-width: 1464px;
+    padding: 0 40px;
+    margin-bottom: 34px;
+    > div:first-child {
+      display: flex;
+      justify-content: space-between;
+      padding-top: 40px;
+      .title {
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 32px;
+        color: #000000;
+        margin-bottom: 40px;
+        margin-right: 40px;
+        span {
+          display: block;
+        }
+      }
+      img {
+        width: 48px;
+        height: 48px;
+        cursor: pointer;
+      }
+    }
+    > div:last-child {
+      width: 100%;
+      height: 100%;
+      // height: 420px;
+      max-width: 1384px;
+      border: 1px solid #f2f2f2;
+      display: flex;
+      justify-items: center;
+      align-items: center;
+      img {
+        // max-width: 100%;
+        // max-height: 100%;
+        // vertical-align: middle;
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
+  .emission {
+    .imgbox > div {
+      width: calc((100vw - 276px) / 8 * 4 + 78px);
+      margin-bottom: 28px;
+    }
+  }
+  .detailsbox {
+    > div {
+      > div:first-child {
+        .title {
+          font-size: 24px;
+          line-height: 24px;
+        }
+        img {
+          width: 36px;
+          height: 36px;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1319px) {
+  .emission {
+    .datadashboard {
+      .word {
+        margin-top: 56px;
+      }
+    }
+  }
+  .detailsbox {
+    > div {
+      > div:first-child {
+        .title {
+          font-size: 24px;
+          line-height: 24px;
+        }
+        img {
+          width: 36px;
+          height: 36px;
+        }
+      }
+    }
+  }
+}
+@media screen and (min-width: 730px) and (max-width: 1280px) {
+  .emission {
+    .imgbox > div {
+      // width: calc((100vw - 276px)/8*4 + 84px);
+      width: calc((100vw - 276px) / 8 * 4 + 78px);
+      margin-bottom: 28px;
+    }
+  }
+}
 
-  @media screen and (max-width: 639px) {
+@media screen and (max-width: 639px) {
+  .emission {
     .imgbox,
     .datadashboard,
     .powerbi_gif {
@@ -529,16 +747,16 @@ export default {
       padding: 40px 24px 0;
       .word {
         margin-top: 25px;
-        a{
+        a {
           margin-top: 32px;
         }
       }
       .title {
         margin-top: 15px;
         width: 100%;
-        span:first-child{
+        span:first-child {
           word-break: break-word;
-          width:100%;
+          width: 100%;
         }
         span:last-child {
           margin-top: 6px;
@@ -559,34 +777,12 @@ export default {
       }
     }
   }
-  @media screen and (max-width: 1240px) {
-    .datadashboard{
-      .word{
-        margin-top: 64px;
-
-      }
-    }
-  }
-
-  @media screen and (min-width: 1280px) and (max-width: 1440px) {
-    .imgbox >div{
-      width: calc((100vw - 276px)/8*4 + 78px);
-      margin-bottom: 28px;
-    }
-  }
-  @media screen and (min-width: 730px) and (max-width: 1280px) {
-    .imgbox >div{
-      // width: calc((100vw - 276px)/8*4 + 84px);
-      width: calc((100vw - 276px)/8*4 + 78px);
-      margin-bottom: 28px;
-    }
-  }
 }
 .bottom {
   width: 100%;
   background: #f9f9f9;
 }
-/deep/ .powerbi_gif .video-js{
-  background-color:#fff;
+/deep/ .powerbi_gif .video-js {
+  background-color: #fff;
 }
 </style>

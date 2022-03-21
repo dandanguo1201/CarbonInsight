@@ -7,12 +7,12 @@
   {
     "Time":"2019.01",
     "Sector":"Ground Transport",
-    "Value":585.0861833
+    "Value":585.0862233
   },
   {
     "Time":"2019.01",
     "Sector":"Industry",
-    "Value":880.8065835
+    "Value":880.9276121
   },
   {
     "Time":"2019.01",
@@ -22,7 +22,7 @@
   {
     "Time":"2019.01",
     "Sector":"Power",
-    "Value":1348.0635819
+    "Value":1347.9332691
   },
   {
     "Time":"2019.01",
@@ -37,12 +37,12 @@
   {
     "Time":"2019.02",
     "Sector":"Ground Transport",
-    "Value":546.600747
+    "Value":546.600807
   },
   {
     "Time":"2019.02",
     "Sector":"Industry",
-    "Value":789.1052213
+    "Value":788.5388406
   },
   {
     "Time":"2019.02",
@@ -52,7 +52,7 @@
   {
     "Time":"2019.02",
     "Sector":"Power",
-    "Value":1119.1566737
+    "Value":1119.0544082
   },
   {
     "Time":"2019.02",
@@ -67,12 +67,12 @@
   {
     "Time":"2019.03",
     "Sector":"Ground Transport",
-    "Value":603.416425
+    "Value":603.416505
   },
   {
     "Time":"2019.03",
     "Sector":"Industry",
-    "Value":934.436269
+    "Value":934.511051
   },
   {
     "Time":"2019.03",
@@ -82,7 +82,7 @@
   {
     "Time":"2019.03",
     "Sector":"Power",
-    "Value":1155.7509607
+    "Value":1155.6963346
   },
   {
     "Time":"2019.03",
@@ -97,12 +97,12 @@
   {
     "Time":"2019.04",
     "Sector":"Ground Transport",
-    "Value":587.302671
+    "Value":587.302731
   },
   {
     "Time":"2019.04",
     "Sector":"Industry",
-    "Value":925.9836683
+    "Value":926.8344996
   },
   {
     "Time":"2019.04",
@@ -112,7 +112,7 @@
   {
     "Time":"2019.04",
     "Sector":"Power",
-    "Value":1045.565416
+    "Value":1045.5135591
   },
   {
     "Time":"2019.04",
@@ -127,12 +127,12 @@
   {
     "Time":"2019.05",
     "Sector":"Ground Transport",
-    "Value":608.708871
+    "Value":608.708951
   },
   {
     "Time":"2019.05",
     "Sector":"Industry",
-    "Value":961.2327277
+    "Value":961.260459
   },
   {
     "Time":"2019.05",
@@ -142,7 +142,7 @@
   {
     "Time":"2019.05",
     "Sector":"Power",
-    "Value":1048.1177368
+    "Value":1048.0920692
   },
   {
     "Time":"2019.05",
@@ -157,12 +157,12 @@
   {
     "Time":"2019.06",
     "Sector":"Ground Transport",
-    "Value":565.17915
+    "Value":565.17923
   },
   {
     "Time":"2019.06",
     "Sector":"Industry",
-    "Value":942.3625854
+    "Value":941.8856936
   },
   {
     "Time":"2019.06",
@@ -172,7 +172,7 @@
   {
     "Time":"2019.06",
     "Sector":"Power",
-    "Value":1094.5679588
+    "Value":1095.0555964
   },
   {
     "Time":"2019.06",
@@ -187,12 +187,12 @@
   {
     "Time":"2019.07",
     "Sector":"Ground Transport",
-    "Value":588.486523
+    "Value":588.486623
   },
   {
     "Time":"2019.07",
     "Sector":"Industry",
-    "Value":946.9649974
+    "Value":946.4012876
   },
   {
     "Time":"2019.07",
@@ -202,7 +202,7 @@
   {
     "Time":"2019.07",
     "Sector":"Power",
-    "Value":1251.1454451
+    "Value":1251.59297
   },
   {
     "Time":"2019.07",
@@ -217,12 +217,12 @@
   {
     "Time":"2019.08",
     "Sector":"Ground Transport",
-    "Value":590.641829
+    "Value":590.641909
   },
   {
     "Time":"2019.08",
     "Sector":"Industry",
-    "Value":943.3722205
+    "Value":943.0314562
   },
   {
     "Time":"2019.08",
@@ -232,7 +232,7 @@
   {
     "Time":"2019.08",
     "Sector":"Power",
-    "Value":1270.6121052
+    "Value":1270.4821787
   },
   {
     "Time":"2019.08",
@@ -247,12 +247,12 @@
   {
     "Time":"2019.09",
     "Sector":"Ground Transport",
-    "Value":562.949635
+    "Value":562.949725
   },
   {
     "Time":"2019.09",
     "Sector":"Industry",
-    "Value":938.6668909
+    "Value":938.6206299
   },
   {
     "Time":"2019.09",
@@ -262,7 +262,7 @@
   {
     "Time":"2019.09",
     "Sector":"Power",
-    "Value":1151.0613969
+    "Value":1150.937474
   },
   {
     "Time":"2019.09",
@@ -277,12 +277,12 @@
   {
     "Time":"2019.10",
     "Sector":"Ground Transport",
-    "Value":605.977807
+    "Value":605.977097
   },
   {
     "Time":"2019.10",
     "Sector":"Industry",
-    "Value":943.9492332
+    "Value":945.0235143
   },
   {
     "Time":"2019.10",
@@ -292,7 +292,7 @@
   {
     "Time":"2019.10",
     "Sector":"Power",
-    "Value":1108.2613122
+    "Value":1108.1086587
   },
   {
     "Time":"2019.10",
@@ -307,12 +307,12 @@
   {
     "Time":"2019.11",
     "Sector":"Ground Transport",
-    "Value":609.126639
+    "Value":609.126709
   },
   {
     "Time":"2019.11",
     "Sector":"Industry",
-    "Value":950.4561434
+    "Value":950.5121541
   },
   {
     "Time":"2019.11",
@@ -322,7 +322,7 @@
   {
     "Time":"2019.11",
     "Sector":"Power",
-    "Value":1159.3175607
+    "Value":1159.277886
   },
   {
     "Time":"2019.11",
@@ -337,12 +337,12 @@
   {
     "Time":"2019.12",
     "Sector":"Ground Transport",
-    "Value":611.461194
+    "Value":611.461244
   },
   {
     "Time":"2019.12",
     "Sector":"Industry",
-    "Value":952.533567
+    "Value":952.3226941
   },
   {
     "Time":"2019.12",
@@ -352,7 +352,7 @@
   {
     "Time":"2019.12",
     "Sector":"Power",
-    "Value":1271.7257215
+    "Value":1271.6018722
   },
   {
     "Time":"2019.12",
@@ -367,12 +367,12 @@
   {
     "Time":"2020.01",
     "Sector":"Ground Transport",
-    "Value":585.122267
+    "Value":585.122297
   },
   {
     "Time":"2020.01",
     "Sector":"Industry",
-    "Value":877.3226185
+    "Value":877.3564149
   },
   {
     "Time":"2020.01",
@@ -382,12 +382,12 @@
   {
     "Time":"2020.01",
     "Sector":"Power",
-    "Value":1272.5743329
+    "Value":1272.4761887
   },
   {
     "Time":"2020.01",
     "Sector":"Residential",
-    "Value":578.5106219
+    "Value":578.5113719
   },
   {
     "Time":"2020.02",
@@ -397,12 +397,12 @@
   {
     "Time":"2020.02",
     "Sector":"Ground Transport",
-    "Value":524.536044
+    "Value":524.536114
   },
   {
     "Time":"2020.02",
     "Sector":"Industry",
-    "Value":777.2068779
+    "Value":776.7746899
   },
   {
     "Time":"2020.02",
@@ -412,12 +412,12 @@
   {
     "Time":"2020.02",
     "Sector":"Power",
-    "Value":1047.9470837
+    "Value":1047.8286067
   },
   {
     "Time":"2020.02",
     "Sector":"Residential",
-    "Value":474.888448
+    "Value":474.888238
   },
   {
     "Time":"2020.03",
@@ -427,12 +427,12 @@
   {
     "Time":"2020.03",
     "Sector":"Ground Transport",
-    "Value":495.7363253
+    "Value":495.7363673
   },
   {
     "Time":"2020.03",
     "Sector":"Industry",
-    "Value":867.7998787
+    "Value":868.9137498
   },
   {
     "Time":"2020.03",
@@ -442,12 +442,12 @@
   {
     "Time":"2020.03",
     "Sector":"Power",
-    "Value":1061.6958022
+    "Value":1061.8248346
   },
   {
     "Time":"2020.03",
     "Sector":"Residential",
-    "Value":403.5706451
+    "Value":403.5687051
   },
   {
     "Time":"2020.04",
@@ -457,12 +457,12 @@
   {
     "Time":"2020.04",
     "Sector":"Ground Transport",
-    "Value":386.1122682
+    "Value":386.1123012
   },
   {
     "Time":"2020.04",
     "Sector":"Industry",
-    "Value":817.2803078
+    "Value":818.9501988
   },
   {
     "Time":"2020.04",
@@ -472,12 +472,12 @@
   {
     "Time":"2020.04",
     "Sector":"Power",
-    "Value":933.0691375
+    "Value":933.0552463
   },
   {
     "Time":"2020.04",
     "Sector":"Residential",
-    "Value":302.1311846
+    "Value":302.1324146
   },
   {
     "Time":"2020.05",
@@ -487,12 +487,12 @@
   {
     "Time":"2020.05",
     "Sector":"Ground Transport",
-    "Value":447.2556774
+    "Value":447.2557374
   },
   {
     "Time":"2020.05",
     "Sector":"Industry",
-    "Value":884.3595803
+    "Value":885.1697797
   },
   {
     "Time":"2020.05",
@@ -502,12 +502,12 @@
   {
     "Time":"2020.05",
     "Sector":"Power",
-    "Value":983.08633
+    "Value":983.0885458
   },
   {
     "Time":"2020.05",
     "Sector":"Residential",
-    "Value":224.0180271
+    "Value":224.0191771
   },
   {
     "Time":"2020.06",
@@ -517,12 +517,12 @@
   {
     "Time":"2020.06",
     "Sector":"Ground Transport",
-    "Value":515.0094557
+    "Value":515.0094957
   },
   {
     "Time":"2020.06",
     "Sector":"Industry",
-    "Value":901.383875
+    "Value":902.3121039
   },
   {
     "Time":"2020.06",
@@ -532,12 +532,12 @@
   {
     "Time":"2020.06",
     "Sector":"Power",
-    "Value":1062.3439328
+    "Value":1062.4392437
   },
   {
     "Time":"2020.06",
     "Sector":"Residential",
-    "Value":172.8059503
+    "Value":172.8055403
   },
   {
     "Time":"2020.07",
@@ -547,12 +547,12 @@
   {
     "Time":"2020.07",
     "Sector":"Ground Transport",
-    "Value":554.521919
+    "Value":554.521969
   },
   {
     "Time":"2020.07",
     "Sector":"Industry",
-    "Value":918.6641191
+    "Value":919.7569093
   },
   {
     "Time":"2020.07",
@@ -562,12 +562,12 @@
   {
     "Time":"2020.07",
     "Sector":"Power",
-    "Value":1209.2012348
+    "Value":1209.3869922
   },
   {
     "Time":"2020.07",
     "Sector":"Residential",
-    "Value":160.9228516
+    "Value":160.9240126
   },
   {
     "Time":"2020.08",
@@ -577,12 +577,12 @@
   {
     "Time":"2020.08",
     "Sector":"Ground Transport",
-    "Value":553.065214
+    "Value":553.065294
   },
   {
     "Time":"2020.08",
     "Sector":"Industry",
-    "Value":923.1976932
+    "Value":924.8096653
   },
   {
     "Time":"2020.08",
@@ -592,12 +592,12 @@
   {
     "Time":"2020.08",
     "Sector":"Power",
-    "Value":1263.6818266
+    "Value":1263.6077709
   },
   {
     "Time":"2020.08",
     "Sector":"Residential",
-    "Value":158.6577024
+    "Value":158.6577714
   },
   {
     "Time":"2020.09",
@@ -607,12 +607,12 @@
   {
     "Time":"2020.09",
     "Sector":"Ground Transport",
-    "Value":562.422631
+    "Value":562.422691
   },
   {
     "Time":"2020.09",
     "Sector":"Industry",
-    "Value":935.1566546
+    "Value":935.9993056
   },
   {
     "Time":"2020.09",
@@ -622,12 +622,12 @@
   {
     "Time":"2020.09",
     "Sector":"Power",
-    "Value":1122.1042987
+    "Value":1122.0310199
   },
   {
     "Time":"2020.09",
     "Sector":"Residential",
-    "Value":189.0042058
+    "Value":189.0059758
   },
   {
     "Time":"2020.10",
@@ -637,12 +637,12 @@
   {
     "Time":"2020.10",
     "Sector":"Ground Transport",
-    "Value":575.906117
+    "Value":575.906187
   },
   {
     "Time":"2020.10",
     "Sector":"Industry",
-    "Value":951.9953763
+    "Value":952.6911427
   },
   {
     "Time":"2020.10",
@@ -652,12 +652,12 @@
   {
     "Time":"2020.10",
     "Sector":"Power",
-    "Value":1074.7477848
+    "Value":1074.2340994
   },
   {
     "Time":"2020.10",
     "Sector":"Residential",
-    "Value":280.8594381
+    "Value":280.8586131
   },
   {
     "Time":"2020.11",
@@ -667,12 +667,12 @@
   {
     "Time":"2020.11",
     "Sector":"Ground Transport",
-    "Value":544.553761
+    "Value":544.553841
   },
   {
     "Time":"2020.11",
     "Sector":"Industry",
-    "Value":949.3402137
+    "Value":953.6725192
   },
   {
     "Time":"2020.11",
@@ -682,12 +682,12 @@
   {
     "Time":"2020.11",
     "Sector":"Power",
-    "Value":1150.4134841
+    "Value":1150.3430076
   },
   {
     "Time":"2020.11",
     "Sector":"Residential",
-    "Value":382.6800465
+    "Value":382.6794465
   },
   {
     "Time":"2020.12",
@@ -697,12 +697,12 @@
   {
     "Time":"2020.12",
     "Sector":"Ground Transport",
-    "Value":570.676387
+    "Value":570.676417
   },
   {
     "Time":"2020.12",
     "Sector":"Industry",
-    "Value":954.0607592
+    "Value":954.2590912
   },
   {
     "Time":"2020.12",
@@ -712,12 +712,12 @@
   {
     "Time":"2020.12",
     "Sector":"Power",
-    "Value":1325.7974052
+    "Value":1325.751294
   },
   {
     "Time":"2020.12",
     "Sector":"Residential",
-    "Value":567.9571229
+    "Value":567.9550729
   },
   {
     "Time":"2021.01",
@@ -727,12 +727,12 @@
   {
     "Time":"2021.01",
     "Sector":"Ground Transport",
-    "Value":538.9918114
+    "Value":546.5975114
   },
   {
     "Time":"2021.01",
     "Sector":"Industry",
-    "Value":911.1560897
+    "Value":911.1319921
   },
   {
     "Time":"2021.01",
@@ -742,12 +742,12 @@
   {
     "Time":"2021.01",
     "Sector":"Power",
-    "Value":1396.3039981
+    "Value":1395.8417129
   },
   {
     "Time":"2021.01",
     "Sector":"Residential",
-    "Value":619.1013029
+    "Value":619.0978729
   },
   {
     "Time":"2021.02",
@@ -757,12 +757,12 @@
   {
     "Time":"2021.02",
     "Sector":"Ground Transport",
-    "Value":499.38822
+    "Value":512.169218
   },
   {
     "Time":"2021.02",
     "Sector":"Industry",
-    "Value":779.9702589
+    "Value":779.7673356
   },
   {
     "Time":"2021.02",
@@ -772,12 +772,12 @@
   {
     "Time":"2021.02",
     "Sector":"Power",
-    "Value":1073.7117606
+    "Value":1073.0703414
   },
   {
     "Time":"2021.02",
     "Sector":"Residential",
-    "Value":492.049435
+    "Value":492.048955
   },
   {
     "Time":"2021.03",
@@ -787,12 +787,12 @@
   {
     "Time":"2021.03",
     "Sector":"Ground Transport",
-    "Value":593.752495
+    "Value":593.670355
   },
   {
     "Time":"2021.03",
     "Sector":"Industry",
-    "Value":959.5010095
+    "Value":960.4648997
   },
   {
     "Time":"2021.03",
@@ -802,12 +802,12 @@
   {
     "Time":"2021.03",
     "Sector":"Power",
-    "Value":1187.5419114
+    "Value":1186.7470825
   },
   {
     "Time":"2021.03",
     "Sector":"Residential",
-    "Value":413.6870317
+    "Value":413.6873717
   },
   {
     "Time":"2021.04",
@@ -817,12 +817,12 @@
   {
     "Time":"2021.04",
     "Sector":"Ground Transport",
-    "Value":563.21052
+    "Value":567.73785
   },
   {
     "Time":"2021.04",
     "Sector":"Industry",
-    "Value":952.6284438
+    "Value":954.6352706
   },
   {
     "Time":"2021.04",
@@ -832,12 +832,12 @@
   {
     "Time":"2021.04",
     "Sector":"Power",
-    "Value":1059.9466626
+    "Value":1059.9128174
   },
   {
     "Time":"2021.04",
     "Sector":"Residential",
-    "Value":326.1727376
+    "Value":326.1741376
   },
   {
     "Time":"2021.05",
@@ -847,12 +847,12 @@
   {
     "Time":"2021.05",
     "Sector":"Ground Transport",
-    "Value":562.900386
+    "Value":570.960326
   },
   {
     "Time":"2021.05",
     "Sector":"Industry",
-    "Value":957.1210028
+    "Value":959.5458074
   },
   {
     "Time":"2021.05",
@@ -862,12 +862,12 @@
   {
     "Time":"2021.05",
     "Sector":"Power",
-    "Value":1047.4762272
+    "Value":1047.3405357
   },
   {
     "Time":"2021.05",
     "Sector":"Residential",
-    "Value":236.8041938
+    "Value":236.8083608
   },
   {
     "Time":"2021.06",
@@ -877,12 +877,12 @@
   {
     "Time":"2021.06",
     "Sector":"Ground Transport",
-    "Value":561.482166
+    "Value":566.572956
   },
   {
     "Time":"2021.06",
     "Sector":"Industry",
-    "Value":941.4967166
+    "Value":942.6850286
   },
   {
     "Time":"2021.06",
@@ -892,12 +892,12 @@
   {
     "Time":"2021.06",
     "Sector":"Power",
-    "Value":1149.3504477
+    "Value":1148.1816359
   },
   {
     "Time":"2021.06",
     "Sector":"Residential",
-    "Value":164.2935631
+    "Value":164.2937031
   },
   {
     "Time":"2021.07",
@@ -907,12 +907,12 @@
   {
     "Time":"2021.07",
     "Sector":"Ground Transport",
-    "Value":560.4638438
+    "Value":565.8020738
   },
   {
     "Time":"2021.07",
     "Sector":"Industry",
-    "Value":923.6928729
+    "Value":924.0275006
   },
   {
     "Time":"2021.07",
@@ -922,12 +922,12 @@
   {
     "Time":"2021.07",
     "Sector":"Power",
-    "Value":1287.0694841
+    "Value":1284.3975854
   },
   {
     "Time":"2021.07",
     "Sector":"Residential",
-    "Value":156.246944
+    "Value":156.247492
   },
   {
     "Time":"2021.08",
@@ -937,12 +937,12 @@
   {
     "Time":"2021.08",
     "Sector":"Ground Transport",
-    "Value":561.445729
+    "Value":565.771909
   },
   {
     "Time":"2021.08",
     "Sector":"Industry",
-    "Value":919.7496416
+    "Value":920.8970448
   },
   {
     "Time":"2021.08",
@@ -952,12 +952,12 @@
   {
     "Time":"2021.08",
     "Sector":"Power",
-    "Value":1285.8062094
+    "Value":1284.4105496
   },
   {
     "Time":"2021.08",
     "Sector":"Residential",
-    "Value":164.3237303
+    "Value":164.3239373
   },
   {
     "Time":"2021.09",
@@ -967,12 +967,12 @@
   {
     "Time":"2021.09",
     "Sector":"Ground Transport",
-    "Value":577.97421
+    "Value":585.74747
   },
   {
     "Time":"2021.09",
     "Sector":"Industry",
-    "Value":943.7936093
+    "Value":944.1395643
   },
   {
     "Time":"2021.09",
@@ -982,71 +982,101 @@
   {
     "Time":"2021.09",
     "Sector":"Power",
-    "Value":1160.9826967
+    "Value":1158.5288546
   },
   {
     "Time":"2021.09",
     "Sector":"Residential",
-    "Value":184.6962853
+    "Value":184.6960803
   },
   {
     "Time":"2021.10",
     "Sector":"Domestic Aviation",
-    "Value":29.68964494
+    "Value":29.74656094
   },
   {
     "Time":"2021.10",
     "Sector":"Ground Transport",
-    "Value":601.507507
+    "Value":605.813577
   },
   {
     "Time":"2021.10",
     "Sector":"Industry",
-    "Value":897.345471
+    "Value":897.2156787
   },
   {
     "Time":"2021.10",
     "Sector":"International Aviation",
-    "Value":15.74148135
+    "Value":15.77147335
   },
   {
     "Time":"2021.10",
     "Sector":"Power",
-    "Value":1107.4136047
+    "Value":1106.7623425
   },
   {
     "Time":"2021.10",
     "Sector":"Residential",
-    "Value":276.575197
+    "Value":277.909332
   },
   {
     "Time":"2021.11",
     "Sector":"Domestic Aviation",
-    "Value":27.78289303
+    "Value":27.9381991
   },
   {
     "Time":"2021.11",
     "Sector":"Ground Transport",
-    "Value":588.827352
+    "Value":591.570724
   },
   {
     "Time":"2021.11",
     "Sector":"Industry",
-    "Value":900.7241035
+    "Value":898.0887233
   },
   {
     "Time":"2021.11",
     "Sector":"International Aviation",
-    "Value":15.04388103
+    "Value":15.13558353
   },
   {
     "Time":"2021.11",
     "Sector":"Power",
-    "Value":1155.4901924
+    "Value":1159.6823866
   },
   {
     "Time":"2021.11",
     "Sector":"Residential",
-    "Value":409.0580677
+    "Value":415.2076377
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Domestic Aviation",
+    "Value":29.843461482
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Ground Transport",
+    "Value":602.2125588
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Industry",
+    "Value":943.4949342
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"International Aviation",
+    "Value":16.09368068
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Power",
+    "Value":1291.6606001
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Residential",
+    "Value":544.2610383
   }
 ]

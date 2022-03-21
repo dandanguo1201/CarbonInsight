@@ -134,15 +134,15 @@
     <div class="powerbi_gif">
       <img :src="gifurl" alt="" />
     </div>
-    <div class="bigTitle">Carbon Sink Featured Data </div>
+    <div class="bigTitle">Carbon Sink Featured Data</div>
     <viewer :images="images">
       <div class="imgbox">
         <div v-for="src in imagesDetails" :key="src.url">
           <div class="img">
             <img :src="src.url" :alt="src.url | toSrc" />
           </div>
-          <div class="title">{{src.title}}</div>
-          <div class="tips">{{src.tips}}</div>
+          <div class="title">{{ src.title }}</div>
+          <div class="tips">{{ src.tips }}</div>
         </div>
         <div class="temp" v-for="i in 2" :key="i"></div>
       </div>
@@ -211,27 +211,75 @@ export default {
       b_down,
       b_up,
       gifurl: Landmap,
-      Tab1Land:[
-        { url: tab1_land1, title: "Global land carbon sink in 2020.01 ",tips:"Global land carbon sink (vegetation) in January 2020" },
-        { url: tab1_land2, title: "Global land carbon sink in 2020.07 ",tips:"Global land carbon sink (vegetation) in July 2020" },
+      Tab1Land: [
+        {
+          url: tab1_land1,
+          title: "Global land carbon sink in 2020.01 ",
+          tips: "Global land carbon sink (vegetation) in January 2020",
+        },
+        {
+          url: tab1_land2,
+          title: "Global land carbon sink in 2020.07 ",
+          tips: "Global land carbon sink (vegetation) in July 2020",
+        },
       ],
-      Tab1Ocean:[
-        { url: tab1_ocean1, title: "Global ocean sink in 2020.01 ",tips:"Global ocean sink in January 2020" },
-        { url: tab1_ocean2, title: "Global ocean sink in 2020.07 ",tips:"Global ocean sink in July 2020" },
+      Tab1Ocean: [
+        {
+          url: tab1_ocean1,
+          title: "Global ocean sink in 2020.01 ",
+          tips: "Global ocean sink in January 2020",
+        },
+        {
+          url: tab1_ocean2,
+          title: "Global ocean sink in 2020.07 ",
+          tips: "Global ocean sink in July 2020",
+        },
       ],
-      Tab2Land:[
-        { url: tab2_land1, title: "Global land carbon sink in Australia ",tips:"Top: Monthly variations of land carbon sink (vegetation) in Australia; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in Australia makes up about 1% of global land carbon sink overtime" },
-        { url: tab2_land2, title: "Global land carbon sink in Brazil ",tips:"Top: Monthly variations of land carbon sink (vegetation) in Brazil; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in Brazil makes up about 4% of global land carbon sink overtime" },
-        { url: tab2_land3, title: "Global land carbon sink in China ",tips:"Top: Monthly variations of land carbon sink (vegetation) in China; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in China makes up about 18% of global land carbon sink overtime" },
-        { url: tab2_land4, title: "Global land carbon sink in the US ",tips:"Top: Monthly variations of land carbon sink (vegetation) in the US; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in the US makes up about 14% of global land carbon sink overtime" },
+      Tab2Land: [
+        {
+          url: tab2_land1,
+          title: "Global land carbon sink in Australia ",
+          tips: "Top: Monthly variations of land carbon sink (vegetation) in Australia; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in Australia makes up about 1% of global land carbon sink overtime",
+        },
+        {
+          url: tab2_land2,
+          title: "Global land carbon sink in Brazil ",
+          tips: "Top: Monthly variations of land carbon sink (vegetation) in Brazil; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in Brazil makes up about 4% of global land carbon sink overtime",
+        },
+        {
+          url: tab2_land3,
+          title: "Global land carbon sink in China ",
+          tips: "Top: Monthly variations of land carbon sink (vegetation) in China; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in China makes up about 18% of global land carbon sink overtime",
+        },
+        {
+          url: tab2_land4,
+          title: "Global land carbon sink in the US ",
+          tips: "Top: Monthly variations of land carbon sink (vegetation) in the US; Lower left: Land sink by sector (only vegetation for now, more sectors to be updated); Lower right: Land sink in the US makes up about 14% of global land carbon sink overtime",
+        },
       ],
-      Tab2Ocean:[
-        { url: tab2_ocean1, title: "Ocean carbon sink in Arctic ",tips:"Variations of ocean carbon sinks in the Arctic ocean overtime" },
-        { url: tab2_ocean2, title: "Ocean carbon sink in Atlantic ",tips:"Variations of ocean carbon sinks in the Atlantic ocean overtime" },
-        { url: tab2_ocean3, title: "Ocean carbon sink in Indian ",tips:"Variations of ocean carbon sinks in the Indian ocean overtime" },
-        { url: tab2_ocean4, title: "Ocean carbon sink in Pacific ",tips:"Variations of ocean carbon sinks in the Pacific ocean overtime" },
+      Tab2Ocean: [
+        {
+          url: tab2_ocean1,
+          title: "Ocean carbon sink in Arctic ",
+          tips: "Variations of ocean carbon sinks in the Arctic ocean overtime",
+        },
+        {
+          url: tab2_ocean2,
+          title: "Ocean carbon sink in Atlantic ",
+          tips: "Variations of ocean carbon sinks in the Atlantic ocean overtime",
+        },
+        {
+          url: tab2_ocean3,
+          title: "Ocean carbon sink in Indian ",
+          tips: "Variations of ocean carbon sinks in the Indian ocean overtime",
+        },
+        {
+          url: tab2_ocean4,
+          title: "Ocean carbon sink in Pacific ",
+          tips: "Variations of ocean carbon sinks in the Pacific ocean overtime",
+        },
       ],
-      imagesDetails:[],
+      imagesDetails: [],
       images: [tab1_land1, tab1_land2],
       bgc: "background:#F9F9F9;",
       pos: "relative",
@@ -296,7 +344,7 @@ export default {
     } else {
       this.word = false;
     }
-    this.imagesDetails = this.Tab1Land
+    this.imagesDetails = this.Tab1Land;
   },
   filters: {
     toSrc(e) {
@@ -317,19 +365,17 @@ export default {
         this.map = false;
       }
     });
-    this.$nextTick(() => {
-      window.addEventListener("resize", () => {
-        //监听浏览器窗口大小改变
-        this.height =
-          document.documentElement.clientHeight || document.body.clientHeight;
-        var width =
-          document.documentElement.clientWidth || document.body.clientWidth;
-        if (width < 639) {
-          this.word = true;
-        } else {
-          this.word = false;
-        }
-      });
+    window.addEventListener("resize", () => {
+      //监听浏览器窗口大小改变
+      this.height =
+        document.documentElement.clientHeight || document.body.clientHeight;
+      var width =
+        document.documentElement.clientWidth || document.body.clientWidth;
+      if (width < 639) {
+        this.word = true;
+      } else {
+        this.word = false;
+      }
     });
     // this.GetOceanTable();
     // this.GetCountryTable();
@@ -750,14 +796,14 @@ export default {
       (this.map = false), (this.chart = false);
       this.gifurl = this.Landmap;
       this.images = [tab1_land1, tab1_land2];
-      this.imagesDetails = this.Tab1Land
+      this.imagesDetails = this.Tab1Land;
     },
     selectChart() {
       this.selectBtn = 2;
       (this.map = false), (this.chart = false);
       this.gifurl = this.Landchart;
       this.images = [tab2_land1, tab2_land2, tab2_land3, tab2_land4];
-      this.imagesDetails = this.Tab2Land
+      this.imagesDetails = this.Tab2Land;
       // this.setMenu(
       //   "chart",
       //   this.chartlist.find((item) => item.key === this.report)
@@ -786,10 +832,7 @@ export default {
           item.key === 1
             ? [tab1_land1, tab1_land1]
             : [tab1_ocean1, tab1_ocean2];
-        this.imagesDetails =  
-          item.key === 0
-            ? this.Tab1Land
-            : this.Tab1Ocean;
+        this.imagesDetails = item.key === 0 ? this.Tab1Land : this.Tab1Ocean;
       }
       if (type === "chart") {
         console.log(item.key, "item.key");
@@ -798,10 +841,7 @@ export default {
           item.key === 0
             ? [tab2_land1, tab2_land2, tab2_land3, tab2_land4]
             : [tab2_ocean1, tab2_ocean2, tab2_ocean3, tab2_ocean4];
-        this.imagesDetails =  
-          item.key === 0
-            ? this.Tab2Land
-            : this.Tab2Ocean;
+        this.imagesDetails = item.key === 0 ? this.Tab2Land : this.Tab2Ocean;
       }
     },
     /**
@@ -879,7 +919,7 @@ export default {
   },
 };
 </script>
-<style scoped lang='scss'>
+<style scoped lang="scss">
 .sinkheader {
   height: 100%;
   height: 100%;
@@ -1144,7 +1184,7 @@ export default {
     // border:1px solid green;
   }
 }
-.bigTitle{
+.bigTitle {
   font-weight: bold;
   font-size: 24px;
   line-height: 32px;
@@ -1173,9 +1213,9 @@ export default {
   align-items: start;
   flex-wrap: wrap;
   margin-bottom: 120px;
-  > div  {
+  > div {
     margin-bottom: 64px;
-    >div:first-child{
+    > div:first-child {
       width: 322px;
       height: 210px;
       border: 6px solid #f8f8f8;
@@ -1190,14 +1230,14 @@ export default {
       }
     }
   }
-  .title{
+  .title {
     font-weight: bold;
     font-size: 20px;
     line-height: 27px;
     width: 314px;
     margin-top: 24px;
   }
-  .tips{
+  .tips {
     font-size: 18px;
     line-height: 27px;
     width: 314px;

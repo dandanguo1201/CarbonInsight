@@ -4,16 +4,17 @@
   </div>
 </template>
 <style>
-body{
+body {
   font-family: Segoe UI;
+  overflow-y: visible;
 }
-button{
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-    background: none;
+button {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  background: none;
 }
-a:focus-visible { 
+a:focus-visible {
   outline-color: -webkit-focus-ring-color;
   outline-style: auto;
   outline-width: 1px;

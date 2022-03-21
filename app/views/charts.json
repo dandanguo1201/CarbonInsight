@@ -33,61 +33,61 @@
     "Time":"2019.01",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":27.2504420516
+    "Value":27.2504435344
   },
   {
     "Time":"2019.01",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":191.3110263469
+    "Value":191.3110287812
   },
   {
     "Time":"2019.01",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":215.0116420589
+    "Value":215.011647432
   },
   {
     "Time":"2019.01",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":142.2797909096
+    "Value":142.2798211171
   },
   {
     "Time":"2019.01",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.233281933
+    "Value":9.2332824354
   },
   {
     "Time":"2019.01",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":34.5838559814
+    "Value":34.5982119526
   },
   {
     "Time":"2019.01",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":156.2741511343
+    "Value":156.2970623774
   },
   {
     "Time":"2019.01",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":562.5910210055
+    "Value":562.6656628846
   },
   {
     "Time":"2019.01",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":115.644690755
+    "Value":115.6489481796
   },
   {
     "Time":"2019.01",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.7128646238
+    "Value":11.7177267059
   },
   {
     "Time":"2019.01",
@@ -111,31 +111,31 @@
     "Time":"2019.01",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":52.209396811
+    "Value":52.2057699772
   },
   {
     "Time":"2019.01",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":196.830290235
+    "Value":196.8272928156
   },
   {
     "Time":"2019.01",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":819.6499577229
+    "Value":819.6330434529
   },
   {
     "Time":"2019.01",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":258.6479801226
+    "Value":258.5426456172
   },
   {
     "Time":"2019.01",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":20.7259570085
+    "Value":20.7245172371
   },
   {
     "Time":"2019.01",
@@ -201,61 +201,61 @@
     "Time":"2019.02",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":26.0070536442
+    "Value":26.007055127
   },
   {
     "Time":"2019.02",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":178.1802724368
+    "Value":178.180274871
   },
   {
     "Time":"2019.02",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":200.289402077
+    "Value":200.289407569
   },
   {
     "Time":"2019.02",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":133.3120348717
+    "Value":133.3120849603
   },
   {
     "Time":"2019.02",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.8119839703
+    "Value":8.8119844727
   },
   {
     "Time":"2019.02",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":33.803005515
+    "Value":33.7358144451
   },
   {
     "Time":"2019.02",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":143.223677871
+    "Value":143.1165386815
   },
   {
     "Time":"2019.02",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":485.5322572006
+    "Value":485.182906367
   },
   {
     "Time":"2019.02",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":115.0978746222
+    "Value":115.0779312951
   },
   {
     "Time":"2019.02",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.4484060912
+    "Value":11.4256498113
   },
   {
     "Time":"2019.02",
@@ -279,31 +279,31 @@
     "Time":"2019.02",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":45.68147715
+    "Value":45.6779778221
   },
   {
     "Time":"2019.02",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":168.3275668902
+    "Value":168.3246748489
   },
   {
     "Time":"2019.02",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":671.1795378665
+    "Value":671.1634136155
   },
   {
     "Time":"2019.02",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":215.8335721602
+    "Value":215.7552114349
   },
   {
     "Time":"2019.02",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.134519633
+    "Value":18.1331304785
   },
   {
     "Time":"2019.02",
@@ -369,61 +369,61 @@
     "Time":"2019.03",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":28.6488972214
+    "Value":28.6488987041
   },
   {
     "Time":"2019.03",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":197.7893922565
+    "Value":197.7893946907
   },
   {
     "Time":"2019.03",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":219.8759408124
+    "Value":219.8759464232
   },
   {
     "Time":"2019.03",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":147.3950734597
+    "Value":147.3951434295
   },
   {
     "Time":"2019.03",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.7071212501
+    "Value":9.7071217525
   },
   {
     "Time":"2019.03",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":36.1726079723
+    "Value":36.1814794666
   },
   {
     "Time":"2019.03",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":152.9453857924
+    "Value":152.9595317899
   },
   {
     "Time":"2019.03",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":614.9155860251
+    "Value":614.9617121459
   },
   {
     "Time":"2019.03",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":118.1517458655
+    "Value":118.1543796542
   },
   {
     "Time":"2019.03",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":12.2509433447
+    "Value":12.2539479435
   },
   {
     "Time":"2019.03",
@@ -447,31 +447,31 @@
     "Time":"2019.03",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":44.4548918907
+    "Value":44.4525061141
   },
   {
     "Time":"2019.03",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":167.3158558475
+    "Value":167.3138841076
   },
   {
     "Time":"2019.03",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":723.175571146
+    "Value":723.1646878355
   },
   {
     "Time":"2019.03",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":203.1570489604
+    "Value":203.1186107871
   },
   {
     "Time":"2019.03",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":17.6475928554
+    "Value":17.6466457557
   },
   {
     "Time":"2019.03",
@@ -549,13 +549,13 @@
     "Time":"2019.04",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":212.8984279518
+    "Value":212.8984283085
   },
   {
     "Time":"2019.04",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":142.4572109118
+    "Value":142.4572705551
   },
   {
     "Time":"2019.04",
@@ -567,31 +567,31 @@
     "Time":"2019.04",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":34.7355611435
+    "Value":34.8365013802
   },
   {
     "Time":"2019.04",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":145.9637108529
+    "Value":146.1246646099
   },
   {
     "Time":"2019.04",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":617.3770698543
+    "Value":617.9018946903
   },
   {
     "Time":"2019.04",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":116.1430823025
+    "Value":116.1730083208
   },
   {
     "Time":"2019.04",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.7642441468
+    "Value":11.7984305987
   },
   {
     "Time":"2019.04",
@@ -615,31 +615,31 @@
     "Time":"2019.04",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":39.0628540603
+    "Value":39.0611341478
   },
   {
     "Time":"2019.04",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":139.1221095307
+    "Value":139.1206880983
   },
   {
     "Time":"2019.04",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":662.6255599921
+    "Value":662.6176279622
   },
   {
     "Time":"2019.04",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":189.2478173817
+    "Value":189.2077166233
   },
   {
     "Time":"2019.04",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":15.5070750351
+    "Value":15.5063922685
   },
   {
     "Time":"2019.04",
@@ -717,13 +717,13 @@
     "Time":"2019.05",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":218.7882403853
+    "Value":218.7882408608
   },
   {
     "Time":"2019.05",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":148.3259790762
+    "Value":148.3260586006
   },
   {
     "Time":"2019.05",
@@ -735,31 +735,31 @@
     "Time":"2019.05",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.775503612
+    "Value":35.778793349
   },
   {
     "Time":"2019.05",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":150.6075329915
+    "Value":150.6127786255
   },
   {
     "Time":"2019.05",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":645.7466555066
+    "Value":645.7637600443
   },
   {
     "Time":"2019.05",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":116.9865835991
+    "Value":116.9875608218
   },
   {
     "Time":"2019.05",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":12.1164519908
+    "Value":12.1175661593
   },
   {
     "Time":"2019.05",
@@ -783,31 +783,31 @@
     "Time":"2019.05",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":38.2675375864
+    "Value":38.2668660555
   },
   {
     "Time":"2019.05",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":156.8958712673
+    "Value":156.8953162763
   },
   {
     "Time":"2019.05",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":654.5977322001
+    "Value":654.5946167695
   },
   {
     "Time":"2019.05",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":183.1652434747
+    "Value":183.1441844099
   },
   {
     "Time":"2019.05",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":15.1913522715
+    "Value":15.1910856888
   },
   {
     "Time":"2019.05",
@@ -885,13 +885,13 @@
     "Time":"2019.06",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":199.8737455311
+    "Value":199.8737460066
   },
   {
     "Time":"2019.06",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":141.0254648909
+    "Value":141.0255444154
   },
   {
     "Time":"2019.06",
@@ -903,31 +903,31 @@
     "Time":"2019.06",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.520212662
+    "Value":35.4636358284
   },
   {
     "Time":"2019.06",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":146.0374750651
+    "Value":145.9472607539
   },
   {
     "Time":"2019.06",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":632.584141526
+    "Value":632.2899780773
   },
   {
     "Time":"2019.06",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":116.1907661267
+    "Value":116.1739903692
   },
   {
     "Time":"2019.06",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":12.0299900202
+    "Value":12.0108285712
   },
   {
     "Time":"2019.06",
@@ -951,31 +951,31 @@
     "Time":"2019.06",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":40.7416785712
+    "Value":40.7597659879
   },
   {
     "Time":"2019.06",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":173.8219905254
+    "Value":173.8369389837
   },
   {
     "Time":"2019.06",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":684.4809004782
+    "Value":684.5641158009
   },
   {
     "Time":"2019.06",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":179.3498585947
+    "Value":179.7140646992
   },
   {
     "Time":"2019.06",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.1735306305
+    "Value":16.1807109284
   },
   {
     "Time":"2019.06",
@@ -1053,13 +1053,13 @@
     "Time":"2019.07",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":207.4968746294
+    "Value":207.4968752238
   },
   {
     "Time":"2019.07",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":148.0358225676
+    "Value":148.0359219732
   },
   {
     "Time":"2019.07",
@@ -1071,31 +1071,31 @@
     "Time":"2019.07",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.9161199994
+    "Value":35.8492456837
   },
   {
     "Time":"2019.07",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":150.196044159
+    "Value":150.0894100486
   },
   {
     "Time":"2019.07",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":632.019217548
+    "Value":631.6715136353
   },
   {
     "Time":"2019.07",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":116.6695397274
+    "Value":116.6496912676
   },
   {
     "Time":"2019.07",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":12.1640759663
+    "Value":12.1414269648
   },
   {
     "Time":"2019.07",
@@ -1119,31 +1119,31 @@
     "Time":"2019.07",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":47.2195578435
+    "Value":47.2346191207
   },
   {
     "Time":"2019.07",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":218.0530972785
+    "Value":218.0655447651
   },
   {
     "Time":"2019.07",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":765.78068605
+    "Value":765.8499950828
   },
   {
     "Time":"2019.07",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":201.3470008316
+    "Value":201.6917289465
   },
   {
     "Time":"2019.07",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.7451030965
+    "Value":18.751082085
   },
   {
     "Time":"2019.07",
@@ -1221,13 +1221,13 @@
     "Time":"2019.08",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":207.4218599668
+    "Value":207.4218604423
   },
   {
     "Time":"2019.08",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":147.5306453791
+    "Value":147.5307249035
   },
   {
     "Time":"2019.08",
@@ -1239,31 +1239,31 @@
     "Time":"2019.08",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.5717143081
+    "Value":35.5312872005
   },
   {
     "Time":"2019.08",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":152.0940507611
+    "Value":152.029587916
   },
   {
     "Time":"2019.08",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":626.7965373465
+    "Value":626.5863421892
   },
   {
     "Time":"2019.08",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":116.8624854802
+    "Value":116.850498148
   },
   {
     "Time":"2019.08",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":12.0474326041
+    "Value":12.0337407463
   },
   {
     "Time":"2019.08",
@@ -1287,31 +1287,31 @@
     "Time":"2019.08",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":49.642424466
+    "Value":49.636035005
   },
   {
     "Time":"2019.08",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":215.52128252
+    "Value":215.51600191
   },
   {
     "Time":"2019.08",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":791.218839721
+    "Value":791.189728511
   },
   {
     "Time":"2019.08",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":194.5226318068
+    "Value":194.4360230602
   },
   {
     "Time":"2019.08",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":19.7069266862
+    "Value":19.7043902137
   },
   {
     "Time":"2019.08",
@@ -1389,13 +1389,13 @@
     "Time":"2019.09",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":199.9313586555
+    "Value":199.9313591904
   },
   {
     "Time":"2019.09",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":141.4180157341
+    "Value":141.4181051991
   },
   {
     "Time":"2019.09",
@@ -1407,31 +1407,31 @@
     "Time":"2019.09",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.4244104891
+    "Value":35.4189248259
   },
   {
     "Time":"2019.09",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":148.4054391825
+    "Value":148.3966920453
   },
   {
     "Time":"2019.09",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":625.8215664805
+    "Value":625.7930444098
   },
   {
     "Time":"2019.09",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":117.0179310194
+    "Value":117.0162827756
   },
   {
     "Time":"2019.09",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.9975437285
+    "Value":11.9956858434
   },
   {
     "Time":"2019.09",
@@ -1455,31 +1455,31 @@
     "Time":"2019.09",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":45.1260289769
+    "Value":45.1208819898
   },
   {
     "Time":"2019.09",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":191.661850281
+    "Value":191.6575965214
   },
   {
     "Time":"2019.09",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":704.4812245632
+    "Value":704.4576861244
   },
   {
     "Time":"2019.09",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":191.8782738855
+    "Value":191.7893334092
   },
   {
     "Time":"2019.09",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":17.9140191933
+    "Value":17.9119759551
   },
   {
     "Time":"2019.09",
@@ -1545,61 +1545,61 @@
     "Time":"2019.10",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":27.0585480451
+    "Value":27.0585287693
   },
   {
     "Time":"2019.10",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":204.1678350859
+    "Value":204.1678034408
   },
   {
     "Time":"2019.10",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":213.9916471185
+    "Value":213.9915761393
   },
   {
     "Time":"2019.10",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":151.5915143668
+    "Value":151.5909327983
   },
   {
     "Time":"2019.10",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.1682623836
+    "Value":9.1682558523
   },
   {
     "Time":"2019.10",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.7769972214
+    "Value":35.9044451698
   },
   {
     "Time":"2019.10",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":153.629102619
+    "Value":153.8323241171
   },
   {
     "Time":"2019.10",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":624.0761345093
+    "Value":624.7387826235
   },
   {
     "Time":"2019.10",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":118.3500410036
+    "Value":118.387840456
   },
   {
     "Time":"2019.10",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":12.1169578466
+    "Value":12.1601219336
   },
   {
     "Time":"2019.10",
@@ -1623,31 +1623,31 @@
     "Time":"2019.10",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":41.9710958777
+    "Value":41.9664093285
   },
   {
     "Time":"2019.10",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":163.3502541311
+    "Value":163.3463809033
   },
   {
     "Time":"2019.10",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":673.3003649857
+    "Value":673.2786299946
   },
   {
     "Time":"2019.10",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":212.9780155382
+    "Value":212.8575172611
   },
   {
     "Time":"2019.10",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.6615816672
+    "Value":16.6597212125
   },
   {
     "Time":"2019.10",
@@ -1713,61 +1713,61 @@
     "Time":"2019.11",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":29.1902252359
+    "Value":29.1902296842
   },
   {
     "Time":"2019.11",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":197.9435980931
+    "Value":197.9436053958
   },
   {
     "Time":"2019.11",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":219.5046090994
+    "Value":219.5046249214
   },
   {
     "Time":"2019.11",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":152.5976668592
+    "Value":152.597707779
   },
   {
     "Time":"2019.11",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.8905397123
+    "Value":9.8905412195
   },
   {
     "Time":"2019.11",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.2958497483
+    "Value":35.3024932851
   },
   {
     "Time":"2019.11",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":152.5560362867
+    "Value":152.5666297056
   },
   {
     "Time":"2019.11",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":633.5947365967
+    "Value":633.6292788149
   },
   {
     "Time":"2019.11",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":117.0555180074
+    "Value":117.0574994998
   },
   {
     "Time":"2019.11",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.9540027609
+    "Value":11.9562527947
   },
   {
     "Time":"2019.11",
@@ -1791,31 +1791,31 @@
     "Time":"2019.11",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":42.6349070431
+    "Value":42.6347781205
   },
   {
     "Time":"2019.11",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":165.8452950117
+    "Value":165.8451884628
   },
   {
     "Time":"2019.11",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":709.3184322079
+    "Value":709.3176045163
   },
   {
     "Time":"2019.11",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":224.5938266581
+    "Value":224.5552663006
   },
   {
     "Time":"2019.11",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.9250997792
+    "Value":16.9250485999
   },
   {
     "Time":"2019.11",
@@ -1881,61 +1881,61 @@
     "Time":"2019.12",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":29.1339012157
+    "Value":29.133905664
   },
   {
     "Time":"2019.12",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":197.427528987
+    "Value":197.4275362897
   },
   {
     "Time":"2019.12",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":223.1117435371
+    "Value":223.1117592402
   },
   {
     "Time":"2019.12",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":151.916564846
+    "Value":151.9165858847
   },
   {
     "Time":"2019.12",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.8714554143
+    "Value":9.8714569215
   },
   {
     "Time":"2019.12",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":35.9336209734
+    "Value":35.9086021257
   },
   {
     "Time":"2019.12",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":154.5608932509
+    "Value":154.5209995706
   },
   {
     "Time":"2019.12",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":631.4253988257
+    "Value":631.2953168078
   },
   {
     "Time":"2019.12",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":118.4436507517
+    "Value":118.436245784
   },
   {
     "Time":"2019.12",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":12.1700031983
+    "Value":12.1615298119
   },
   {
     "Time":"2019.12",
@@ -1959,31 +1959,31 @@
     "Time":"2019.12",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":47.6533441615
+    "Value":47.6485145223
   },
   {
     "Time":"2019.12",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":171.2464916884
+    "Value":171.2425002029
   },
   {
     "Time":"2019.12",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":821.0736595054
+    "Value":821.0516003466
   },
   {
     "Time":"2019.12",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":212.8349196304
+    "Value":212.7438678719
   },
   {
     "Time":"2019.12",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.9173065144
+    "Value":18.9153892562
   },
   {
     "Time":"2019.12",
@@ -2061,13 +2061,13 @@
     "Time":"2020.01",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":203.4538465955
+    "Value":203.4538467738
   },
   {
     "Time":"2020.01",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":150.1839990297
+    "Value":150.1840288514
   },
   {
     "Time":"2020.01",
@@ -2079,31 +2079,31 @@
     "Time":"2020.01",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":34.7599808865
+    "Value":34.7641378423
   },
   {
     "Time":"2020.01",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":153.2728872337
+    "Value":153.2782956872
   },
   {
     "Time":"2020.01",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":562.76689124
+    "Value":562.788504648
   },
   {
     "Time":"2020.01",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":114.7503445114
+    "Value":114.7515542157
   },
   {
     "Time":"2020.01",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.7725146284
+    "Value":11.7739225068
   },
   {
     "Time":"2020.01",
@@ -2127,31 +2127,31 @@
     "Time":"2020.01",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":52.2048009326
+    "Value":52.2010749276
   },
   {
     "Time":"2020.01",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":171.5544645426
+    "Value":171.5513851625
   },
   {
     "Time":"2020.01",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":800.361157148
+    "Value":800.3440408566
   },
   {
     "Time":"2020.01",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":227.7297777287
+    "Value":227.6570343454
   },
   {
     "Time":"2020.01",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":20.7241325481
+    "Value":20.7226534079
   },
   {
     "Time":"2020.01",
@@ -2163,7 +2163,7 @@
     "Time":"2020.01",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":123.1129092278
+    "Value":123.1136592278
   },
   {
     "Time":"2020.01",
@@ -2229,13 +2229,13 @@
     "Time":"2020.02",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":163.2704394862
+    "Value":163.2704399023
   },
   {
     "Time":"2020.02",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":142.2196664972
+    "Value":142.2197360811
   },
   {
     "Time":"2020.02",
@@ -2247,31 +2247,31 @@
     "Time":"2020.02",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":34.9866263296
+    "Value":34.9354295744
   },
   {
     "Time":"2020.02",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":148.4536706082
+    "Value":148.3713850745
   },
   {
     "Time":"2020.02",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":466.5819344475
+    "Value":466.3157439807
   },
   {
     "Time":"2020.02",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":115.3353715796
+    "Value":115.3201956588
   },
   {
     "Time":"2020.02",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.8492749351
+    "Value":11.8319356118
   },
   {
     "Time":"2020.02",
@@ -2295,31 +2295,31 @@
     "Time":"2020.02",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":47.2053494389
+    "Value":47.2019492822
   },
   {
     "Time":"2020.02",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":152.3564986539
+    "Value":152.3536885732
   },
   {
     "Time":"2020.02",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":638.1900627706
+    "Value":638.1742565235
   },
   {
     "Time":"2020.02",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":191.4557101575
+    "Value":191.3605994277
   },
   {
     "Time":"2020.02",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.7394626792
+    "Value":18.7381128934
   },
   {
     "Time":"2020.02",
@@ -2331,7 +2331,7 @@
     "Time":"2020.02",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":108.4176882593
+    "Value":108.4174782593
   },
   {
     "Time":"2020.02",
@@ -2397,13 +2397,13 @@
     "Time":"2020.03",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":169.6418635702
+    "Value":169.6418638199
   },
   {
     "Time":"2020.03",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":124.2026555594
+    "Value":124.2026973098
   },
   {
     "Time":"2020.03",
@@ -2415,31 +2415,31 @@
     "Time":"2020.03",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":34.7554964992
+    "Value":34.8876032277
   },
   {
     "Time":"2020.03",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":149.016829676
+    "Value":149.2278098091
   },
   {
     "Time":"2020.03",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":565.7480988245
+    "Value":566.4349695711
   },
   {
     "Time":"2020.03",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":106.5084578447
+    "Value":106.5476294133
   },
   {
     "Time":"2020.03",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.7709958556
+    "Value":11.8157377788
   },
   {
     "Time":"2020.03",
@@ -2463,31 +2463,31 @@
     "Time":"2020.03",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":42.8690106617
+    "Value":42.8666914716
   },
   {
     "Time":"2020.03",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":142.1730734083
+    "Value":142.1711566991
   },
   {
     "Time":"2020.03",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":669.7254074399
+    "Value":669.7161342982
   },
   {
     "Time":"2020.03",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":189.9102770363
+    "Value":190.0537391437
   },
   {
     "Time":"2020.03",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":17.0180336538
+    "Value":17.0171129874
   },
   {
     "Time":"2020.03",
@@ -2499,7 +2499,7 @@
     "Time":"2020.03",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":84.8190906794
+    "Value":84.8171506794
   },
   {
     "Time":"2020.03",
@@ -2553,61 +2553,61 @@
     "Time":"2020.04",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":15.8890274644
+    "Value":15.8890289471
   },
   {
     "Time":"2020.04",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":129.6949824777
+    "Value":129.6949849119
   },
   {
     "Time":"2020.04",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":140.0469713997
+    "Value":140.0469767312
   },
   {
     "Time":"2020.04",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":95.0975991389
+    "Value":95.0976223881
   },
   {
     "Time":"2020.04",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":5.3836877193
+    "Value":5.3836882217
   },
   {
     "Time":"2020.04",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":30.6473172471
+    "Value":30.8455983473
   },
   {
     "Time":"2020.04",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":126.4228596938
+    "Value":126.737507845
   },
   {
     "Time":"2020.04",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":562.4202476303
+    "Value":563.4511833837
   },
   {
     "Time":"2020.04",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":87.4102460307
+    "Value":87.4691181585
   },
   {
     "Time":"2020.04",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.3796371981
+    "Value":10.4467910656
   },
   {
     "Time":"2020.04",
@@ -2631,31 +2631,31 @@
     "Time":"2020.04",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":34.8951474689
+    "Value":34.8935465618
   },
   {
     "Time":"2020.04",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":118.5524454074
+    "Value":118.5511223277
   },
   {
     "Time":"2020.04",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":611.7018595544
+    "Value":611.6947842565
   },
   {
     "Time":"2020.04",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":154.0670958723
+    "Value":154.0638394811
   },
   {
     "Time":"2020.04",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":13.852589197
+    "Value":13.8519536729
   },
   {
     "Time":"2020.04",
@@ -2667,7 +2667,7 @@
     "Time":"2020.04",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":64.2439808483
+    "Value":64.2452108483
   },
   {
     "Time":"2020.04",
@@ -2721,61 +2721,61 @@
     "Time":"2020.05",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":17.2409996743
+    "Value":17.2410026399
   },
   {
     "Time":"2020.05",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":150.1190715434
+    "Value":150.1190764119
   },
   {
     "Time":"2020.05",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":159.4741923723
+    "Value":159.4742029996
   },
   {
     "Time":"2020.05",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":114.5796366197
+    "Value":114.5796771537
   },
   {
     "Time":"2020.05",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":5.8417771902
+    "Value":5.841778195
   },
   {
     "Time":"2020.05",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.1319994209
+    "Value":32.2282951136
   },
   {
     "Time":"2020.05",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":132.0689243379
+    "Value":132.2209421602
   },
   {
     "Time":"2020.05",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":613.3659944654
+    "Value":613.8666708897
   },
   {
     "Time":"2020.05",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":95.9101925354
+    "Value":95.9387885589
   },
   {
     "Time":"2020.05",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.8824695404
+    "Value":10.9150829776
   },
   {
     "Time":"2020.05",
@@ -2799,31 +2799,31 @@
     "Time":"2020.05",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":35.8360643173
+    "Value":35.8353786191
   },
   {
     "Time":"2020.05",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":128.8999980091
+    "Value":128.8994313095
   },
   {
     "Time":"2020.05",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":651.0927975432
+    "Value":651.0898704791
   },
   {
     "Time":"2020.05",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":153.0313580938
+    "Value":153.0380255625
   },
   {
     "Time":"2020.05",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":14.2261120366
+    "Value":14.2258398298
   },
   {
     "Time":"2020.05",
@@ -2835,7 +2835,7 @@
     "Time":"2020.05",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":47.3701599563
+    "Value":47.3713099563
   },
   {
     "Time":"2020.05",
@@ -2889,61 +2889,61 @@
     "Time":"2020.06",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":21.1850200218
+    "Value":21.1850215045
   },
   {
     "Time":"2020.06",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":170.1075290892
+    "Value":170.1075315234
   },
   {
     "Time":"2020.06",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":179.7185820022
+    "Value":179.7185873752
   },
   {
     "Time":"2020.06",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":136.8201928617
+    "Value":136.8202230692
   },
   {
     "Time":"2020.06",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":7.1781317252
+    "Value":7.1781322276
   },
   {
     "Time":"2020.06",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.7084223293
+    "Value":32.81861725
   },
   {
     "Time":"2020.06",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":133.918673646
+    "Value":134.0937844138
   },
   {
     "Time":"2020.06",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":619.7432689542
+    "Value":620.3162121959
   },
   {
     "Time":"2020.06",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":103.935817548
+    "Value":103.9684766885
   },
   {
     "Time":"2020.06",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.0776925224
+    "Value":11.1150133518
   },
   {
     "Time":"2020.06",
@@ -2967,31 +2967,31 @@
     "Time":"2020.06",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":39.2522810373
+    "Value":39.2703514532
   },
   {
     "Time":"2020.06",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":162.1382266381
+    "Value":162.153161046
   },
   {
     "Time":"2020.06",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":678.7178115302
+    "Value":678.798152753
   },
   {
     "Time":"2020.06",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":166.6533403072
+    "Value":166.6281316117
   },
   {
     "Time":"2020.06",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":15.5822732872
+    "Value":15.5894468361
   },
   {
     "Time":"2020.06",
@@ -3003,7 +3003,7 @@
     "Time":"2020.06",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":34.8247683127
+    "Value":34.8243583127
   },
   {
     "Time":"2020.06",
@@ -3057,61 +3057,61 @@
     "Time":"2020.07",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":23.4821032419
+    "Value":23.4821047246
   },
   {
     "Time":"2020.07",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":181.6642740632
+    "Value":181.6642764975
   },
   {
     "Time":"2020.07",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":195.2527851397
+    "Value":195.2527905722
   },
   {
     "Time":"2020.07",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":146.1663028874
+    "Value":146.1663430355
   },
   {
     "Time":"2020.07",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":7.9564536678
+    "Value":7.9564541702
   },
   {
     "Time":"2020.07",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":33.472016209
+    "Value":33.6018332901
   },
   {
     "Time":"2020.07",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":141.066033504
+    "Value":141.271552691
   },
   {
     "Time":"2020.07",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":624.8110987931
+    "Value":625.4860650153
   },
   {
     "Time":"2020.07",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":107.9786640018
+    "Value":108.0171852465
   },
   {
     "Time":"2020.07",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.3363065921
+    "Value":11.3802730571
   },
   {
     "Time":"2020.07",
@@ -3135,31 +3135,31 @@
     "Time":"2020.07",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":45.6489985704
+    "Value":45.6626275316
   },
   {
     "Time":"2020.07",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":207.9504327654
+    "Value":207.9616965055
   },
   {
     "Time":"2020.07",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":749.6076902374
+    "Value":749.6691043193
   },
   {
     "Time":"2020.07",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":187.8724868599
+    "Value":187.9665270854
   },
   {
     "Time":"2020.07",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.121626367
+    "Value":18.1270367582
   },
   {
     "Time":"2020.07",
@@ -3171,7 +3171,7 @@
     "Time":"2020.07",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":32.0998344972
+    "Value":32.1009954972
   },
   {
     "Time":"2020.07",
@@ -3237,13 +3237,13 @@
     "Time":"2020.08",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":197.3740207311
+    "Value":197.3740212066
   },
   {
     "Time":"2020.08",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":141.1273429774
+    "Value":141.1274225019
   },
   {
     "Time":"2020.08",
@@ -3255,31 +3255,31 @@
     "Time":"2020.08",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.5153255605
+    "Value":32.7066641648
   },
   {
     "Time":"2020.08",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":142.2085541449
+    "Value":142.5127921734
   },
   {
     "Time":"2020.08",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":627.8084019069
+    "Value":628.8032407451
   },
   {
     "Time":"2020.08",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":109.6531171028
+    "Value":109.7098711497
   },
   {
     "Time":"2020.08",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.0122944849
+    "Value":11.077097067
   },
   {
     "Time":"2020.08",
@@ -3303,31 +3303,31 @@
     "Time":"2020.08",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":46.6305373737
+    "Value":46.6244411762
   },
   {
     "Time":"2020.08",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":205.7840316352
+    "Value":205.7789933947
   },
   {
     "Time":"2020.08",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":801.8335703577
+    "Value":801.806201082
   },
   {
     "Time":"2020.08",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":190.9224120239
+    "Value":190.889280091
   },
   {
     "Time":"2020.08",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.5112752095
+    "Value":18.5088551561
   },
   {
     "Time":"2020.08",
@@ -3339,7 +3339,7 @@
     "Time":"2020.08",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":31.5250121539
+    "Value":31.5250811539
   },
   {
     "Time":"2020.08",
@@ -3393,61 +3393,61 @@
     "Time":"2020.09",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":24.5377997771
+    "Value":24.5378012598
   },
   {
     "Time":"2020.09",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":180.6717813534
+    "Value":180.6717837877
   },
   {
     "Time":"2020.09",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":200.0618740849
+    "Value":200.0618795768
   },
   {
     "Time":"2020.09",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":148.8370198921
+    "Value":148.8370699808
   },
   {
     "Time":"2020.09",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.3141558925
+    "Value":8.3141563949
   },
   {
     "Time":"2020.09",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.7800111834
+    "Value":32.8801957178
   },
   {
     "Time":"2020.09",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":140.7051683004
+    "Value":140.8630970561
   },
   {
     "Time":"2020.09",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":640.0835789248
+    "Value":640.6044746477
   },
   {
     "Time":"2020.09",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":110.4859579471
+    "Value":110.5156694235
   },
   {
     "Time":"2020.09",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.1019382443
+    "Value":11.1358687549
   },
   {
     "Time":"2020.09",
@@ -3471,31 +3471,31 @@
     "Time":"2020.09",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":42.8102743724
+    "Value":42.8055113196
   },
   {
     "Time":"2020.09",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":166.0898364354
+    "Value":166.0858999807
   },
   {
     "Time":"2020.09",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":703.6117678042
+    "Value":703.590223997
   },
   {
     "Time":"2020.09",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":192.5977034208
+    "Value":192.5565587604
   },
   {
     "Time":"2020.09",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.9947166672
+    "Value":16.9928258423
   },
   {
     "Time":"2020.09",
@@ -3507,7 +3507,7 @@
     "Time":"2020.09",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":36.2416921835
+    "Value":36.2434621835
   },
   {
     "Time":"2020.09",
@@ -3561,61 +3561,61 @@
     "Time":"2020.10",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":25.3445754586
+    "Value":25.3445769414
   },
   {
     "Time":"2020.10",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":188.298998446
+    "Value":188.2990008802
   },
   {
     "Time":"2020.10",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":201.9490534493
+    "Value":201.9490590007
   },
   {
     "Time":"2020.10",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":151.7259735157
+    "Value":151.7260335449
   },
   {
     "Time":"2020.10",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.5875161305
+    "Value":8.5875166329
   },
   {
     "Time":"2020.10",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.8776166019
+    "Value":32.9601862731
   },
   {
     "Time":"2020.10",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":146.1851385396
+    "Value":146.316559602
   },
   {
     "Time":"2020.10",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":648.3920148783
+    "Value":648.8213246452
   },
   {
     "Time":"2020.10",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":113.4056110207
+    "Value":113.4301122137
   },
   {
     "Time":"2020.10",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.1349952596
+    "Value":11.162959966
   },
   {
     "Time":"2020.10",
@@ -3639,31 +3639,31 @@
     "Time":"2020.10",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":39.6261282607
+    "Value":39.6219800695
   },
   {
     "Time":"2020.10",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":155.249380009
+    "Value":155.2459517106
   },
   {
     "Time":"2020.10",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":672.2897990966
+    "Value":672.2678660547
   },
   {
     "Time":"2020.10",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":191.851795202
+    "Value":191.3692660721
   },
   {
     "Time":"2020.10",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":15.7306822318
+    "Value":15.7290354931
   },
   {
     "Time":"2020.10",
@@ -3675,7 +3675,7 @@
     "Time":"2020.10",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":52.9622387888
+    "Value":52.9614137888
   },
   {
     "Time":"2020.10",
@@ -3729,61 +3729,61 @@
     "Time":"2020.11",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":24.6979138455
+    "Value":24.6979182938
   },
   {
     "Time":"2020.11",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":175.2123195116
+    "Value":175.2123268143
   },
   {
     "Time":"2020.11",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":198.4930274673
+    "Value":198.4930433487
   },
   {
     "Time":"2020.11",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":137.7820927472
+    "Value":137.7821436076
   },
   {
     "Time":"2020.11",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.3684074284
+    "Value":8.3684089356
   },
   {
     "Time":"2020.11",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.3521626703
+    "Value":32.8661897187
   },
   {
     "Time":"2020.11",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":145.6377125623
+    "Value":146.4568118592
   },
   {
     "Time":"2020.11",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":645.5197132113
+    "Value":648.1923264625
   },
   {
     "Time":"2020.11",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":114.8735907992
+    "Value":115.0260659583
   },
   {
     "Time":"2020.11",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.957034457
+    "Value":11.1311252013
   },
   {
     "Time":"2020.11",
@@ -3807,31 +3807,31 @@
     "Time":"2020.11",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":40.5628204145
+    "Value":40.5623769774
   },
   {
     "Time":"2020.11",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":148.7656170855
+    "Value":148.7652506041
   },
   {
     "Time":"2020.11",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":733.3702979717
+    "Value":733.3677542665
   },
   {
     "Time":"2020.11",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":211.6122206658
+    "Value":211.545273824
   },
   {
     "Time":"2020.11",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.1025279625
+    "Value":16.102351928
   },
   {
     "Time":"2020.11",
@@ -3843,7 +3843,7 @@
     "Time":"2020.11",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":75.7074088457
+    "Value":75.7068088457
   },
   {
     "Time":"2020.11",
@@ -3909,13 +3909,13 @@
     "Time":"2020.12",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":207.2813396145
+    "Value":207.2813397928
   },
   {
     "Time":"2020.12",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":147.7822789268
+    "Value":147.7823087485
   },
   {
     "Time":"2020.12",
@@ -3927,31 +3927,31 @@
     "Time":"2020.12",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.407487909
+    "Value":32.4309787432
   },
   {
     "Time":"2020.12",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":149.9582091491
+    "Value":149.995986343
   },
   {
     "Time":"2020.12",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":642.3091602846
+    "Value":642.4312976633
   },
   {
     "Time":"2020.12",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":118.4101298415
+    "Value":118.4171005562
   },
   {
     "Time":"2020.12",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.9757720157
+    "Value":10.9837278943
   },
   {
     "Time":"2020.12",
@@ -3975,31 +3975,31 @@
     "Time":"2020.12",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":44.878112222
+    "Value":44.8733279182
   },
   {
     "Time":"2020.12",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":175.3481819316
+    "Value":175.3442279139
   },
   {
     "Time":"2020.12",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":862.136581003
+    "Value":862.1150788672
   },
   {
     "Time":"2020.12",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":225.6189282294
+    "Value":225.6049567476
   },
   {
     "Time":"2020.12",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":17.8156018141
+    "Value":17.813702553
   },
   {
     "Time":"2020.12",
@@ -4011,7 +4011,7 @@
     "Time":"2020.12",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":118.0509973066
+    "Value":118.0489473066
   },
   {
     "Time":"2020.12",
@@ -4065,61 +4065,61 @@
     "Time":"2021.01",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":23.908265494
+    "Value":24.1063055296
   },
   {
     "Time":"2021.01",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":172.3904317452
+    "Value":172.7155539382
   },
   {
     "Time":"2021.01",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":192.3898909817
+    "Value":199.3537413027
   },
   {
     "Time":"2021.01",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":142.2023727262
+    "Value":142.2539581649
   },
   {
     "Time":"2021.01",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.1008504528
+    "Value":8.1679524646
   },
   {
     "Time":"2021.01",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":31.8902019686
+    "Value":31.8872017
   },
   {
     "Time":"2021.01",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":149.6087194019
+    "Value":149.6051453383
   },
   {
     "Time":"2021.01",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":606.2501624553
+    "Value":606.2345628535
   },
   {
     "Time":"2021.01",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":112.6064283249
+    "Value":112.6055207902
   },
   {
     "Time":"2021.01",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.8005775494
+    "Value":10.799561418
   },
   {
     "Time":"2021.01",
@@ -4143,31 +4143,31 @@
     "Time":"2021.01",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":49.5719647199
+    "Value":49.5686325664
   },
   {
     "Time":"2021.01",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":181.648849623
+    "Value":181.646095744
   },
   {
     "Time":"2021.01",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":908.5777656189
+    "Value":908.5597777871
   },
   {
     "Time":"2021.01",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":236.8264623874
+    "Value":236.3895738419
   },
   {
     "Time":"2021.01",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":19.6789557507
+    "Value":19.6776329607
   },
   {
     "Time":"2021.01",
@@ -4179,7 +4179,7 @@
     "Time":"2021.01",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":126.7284596561
+    "Value":126.7250296561
   },
   {
     "Time":"2021.01",
@@ -4233,61 +4233,61 @@
     "Time":"2021.02",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":23.5753998164
+    "Value":23.9082047009
   },
   {
     "Time":"2021.02",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":162.1002669867
+    "Value":162.6466325413
   },
   {
     "Time":"2021.02",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":171.3853431197
+    "Value":183.0877610192
   },
   {
     "Time":"2021.02",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":134.3391446809
+    "Value":134.4257898842
   },
   {
     "Time":"2021.02",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":7.9880653963
+    "Value":8.1008298543
   },
   {
     "Time":"2021.02",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":30.8395290019
+    "Value":30.8155256663
   },
   {
     "Time":"2021.02",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":130.2157200002
+    "Value":130.1768755997
   },
   {
     "Time":"2021.02",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":497.1972123212
+    "Value":497.0724100887
   },
   {
     "Time":"2021.02",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":111.2730620777
+    "Value":111.2659181991
   },
   {
     "Time":"2021.02",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.444735499
+    "Value":10.4366060463
   },
   {
     "Time":"2021.02",
@@ -4311,31 +4311,31 @@
     "Time":"2021.02",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":42.6649247594
+    "Value":42.661782448
   },
   {
     "Time":"2021.02",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":174.1442133406
+    "Value":174.1416163577
   },
   {
     "Time":"2021.02",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":642.1670410389
+    "Value":642.1485898744
   },
   {
     "Time":"2021.02",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":197.7985653232
+    "Value":197.1825840091
   },
   {
     "Time":"2021.02",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.9370161379
+    "Value":16.9357687109
   },
   {
     "Time":"2021.02",
@@ -4347,7 +4347,7 @@
     "Time":"2021.02",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":119.126374273
+    "Value":119.125894273
   },
   {
     "Time":"2021.02",
@@ -4401,61 +4401,61 @@
     "Time":"2021.03",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":27.9284595341
+    "Value":27.9263213981
   },
   {
     "Time":"2021.03",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":192.694752191
+    "Value":192.6912420144
   },
   {
     "Time":"2021.03",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":214.1450725009
+    "Value":214.0697821596
   },
   {
     "Time":"2021.03",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":149.5211958129
+    "Value":149.5207189326
   },
   {
     "Time":"2021.03",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.4630149611
+    "Value":9.4622904953
   },
   {
     "Time":"2021.03",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":33.3506352332
+    "Value":33.4651128625
   },
   {
     "Time":"2021.03",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":146.7962300673
+    "Value":146.9777198069
   },
   {
     "Time":"2021.03",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":652.4375114146
+    "Value":653.0327220709
   },
   {
     "Time":"2021.03",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":115.6214355167
+    "Value":115.6553763939
   },
   {
     "Time":"2021.03",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.2951972682
+    "Value":11.3339685658
   },
   {
     "Time":"2021.03",
@@ -4479,31 +4479,31 @@
     "Time":"2021.03",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":40.4309864242
+    "Value":40.4288060737
   },
   {
     "Time":"2021.03",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":144.8538600614
+    "Value":144.8520580971
   },
   {
     "Time":"2021.03",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":777.3335909524
+    "Value":777.3183163096
   },
   {
     "Time":"2021.03",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":208.8732811304
+    "Value":208.098574738
   },
   {
     "Time":"2021.03",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.0501928316
+    "Value":16.0493272815
   },
   {
     "Time":"2021.03",
@@ -4515,7 +4515,7 @@
     "Time":"2021.03",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":88.0190652794
+    "Value":88.0194052794
   },
   {
     "Time":"2021.03",
@@ -4569,61 +4569,61 @@
     "Time":"2021.04",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":26.0430579579
+    "Value":26.1609445801
   },
   {
     "Time":"2021.04",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":189.3287186943
+    "Value":189.5222530824
   },
   {
     "Time":"2021.04",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":195.625263146
+    "Value":199.7705311638
   },
   {
     "Time":"2021.04",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":143.3892968705
+    "Value":143.4199942548
   },
   {
     "Time":"2021.04",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.8241833313
+    "Value":8.8641269189
   },
   {
     "Time":"2021.04",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":31.8038146364
+    "Value":32.042096946
   },
   {
     "Time":"2021.04",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":141.646751907
+    "Value":142.0249537895
   },
   {
     "Time":"2021.04",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":653.9299065445
+    "Value":655.1688229926
   },
   {
     "Time":"2021.04",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":114.476650835
+    "Value":114.5473755128
   },
   {
     "Time":"2021.04",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.771319877
+    "Value":10.8520213591
   },
   {
     "Time":"2021.04",
@@ -4647,31 +4647,31 @@
     "Time":"2021.04",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":33.6161870466
+    "Value":33.6145946399
   },
   {
     "Time":"2021.04",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":131.4682975844
+    "Value":131.4669815299
   },
   {
     "Time":"2021.04",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":690.3409011848
+    "Value":690.3336693949
   },
   {
     "Time":"2021.04",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":191.1764061274
+    "Value":191.153333328
   },
   {
     "Time":"2021.04",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":13.3448706569
+    "Value":13.3442385072
   },
   {
     "Time":"2021.04",
@@ -4683,7 +4683,7 @@
     "Time":"2021.04",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":61.9265996
+    "Value":61.9279996
   },
   {
     "Time":"2021.04",
@@ -4737,61 +4737,61 @@
     "Time":"2021.05",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":25.2526652622
+    "Value":25.4625406669
   },
   {
     "Time":"2021.05",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":193.1992345385
+    "Value":193.5437868489
   },
   {
     "Time":"2021.05",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":185.335187273
+    "Value":192.7149120776
   },
   {
     "Time":"2021.05",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":150.5569247771
+    "Value":150.6116000611
   },
   {
     "Time":"2021.05",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.5563741492
+    "Value":8.6274863454
   },
   {
     "Time":"2021.05",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.6791361956
+    "Value":32.967190459
   },
   {
     "Time":"2021.05",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":145.1759595859
+    "Value":145.6319950921
   },
   {
     "Time":"2021.05",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":654.3123727022
+    "Value":655.8100714362
   },
   {
     "Time":"2021.05",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":113.8857604253
+    "Value":113.9712182681
   },
   {
     "Time":"2021.05",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.067773891
+    "Value":11.1653321446
   },
   {
     "Time":"2021.05",
@@ -4815,31 +4815,31 @@
     "Time":"2021.05",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":35.8360643173
+    "Value":35.8353786191
   },
   {
     "Time":"2021.05",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":148.4337580091
+    "Value":148.4331913095
   },
   {
     "Time":"2021.05",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":682.3284543884
+    "Value":682.3244892812
   },
   {
     "Time":"2021.05",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":166.6518384486
+    "Value":166.5216366604
   },
   {
     "Time":"2021.05",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":14.2261120366
+    "Value":14.2258398298
   },
   {
     "Time":"2021.05",
@@ -4851,7 +4851,7 @@
     "Time":"2021.05",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":45.6040932719
+    "Value":45.6082602719
   },
   {
     "Time":"2021.05",
@@ -4905,61 +4905,61 @@
     "Time":"2021.06",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":24.5570889673
+    "Value":24.6896459906
   },
   {
     "Time":"2021.06",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":191.386609404
+    "Value":191.6042281798
   },
   {
     "Time":"2021.06",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":191.8247175547
+    "Value":196.4859023418
   },
   {
     "Time":"2021.06",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":145.3930584149
+    "Value":145.4275734612
   },
   {
     "Time":"2021.06",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.3206916592
+    "Value":8.3656060267
   },
   {
     "Time":"2021.06",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.5048631765
+    "Value":32.645932748
   },
   {
     "Time":"2021.06",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":143.601347402
+    "Value":143.825499192
   },
   {
     "Time":"2021.06",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":639.9638121842
+    "Value":640.6972840639
   },
   {
     "Time":"2021.06",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":114.417942754
+    "Value":114.4597840529
   },
   {
     "Time":"2021.06",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.0087510833
+    "Value":11.0565285433
   },
   {
     "Time":"2021.06",
@@ -4983,31 +4983,31 @@
     "Time":"2021.06",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":39.2522810373
+    "Value":39.2703514532
   },
   {
     "Time":"2021.06",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":191.5494526381
+    "Value":191.564387046
   },
   {
     "Time":"2021.06",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":725.2659410079
+    "Value":725.337225217
   },
   {
     "Time":"2021.06",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":177.7004997295
+    "Value":176.4202253477
   },
   {
     "Time":"2021.06",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":15.5822732872
+    "Value":15.5894468361
   },
   {
     "Time":"2021.06",
@@ -5019,7 +5019,7 @@
     "Time":"2021.06",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":33.6339621819
+    "Value":33.6341021819
   },
   {
     "Time":"2021.06",
@@ -5073,61 +5073,61 @@
     "Time":"2021.07",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":23.3102902181
+    "Value":23.4492942703
   },
   {
     "Time":"2021.07",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":191.8579477379
+    "Value":192.0861505966
   },
   {
     "Time":"2021.07",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":193.6689766108
+    "Value":198.556678311
   },
   {
     "Time":"2021.07",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":143.7283910647
+    "Value":143.7646136358
   },
   {
     "Time":"2021.07",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":7.8982381686
+    "Value":7.9453369863
   },
   {
     "Time":"2021.07",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.7754745968
+    "Value":32.8102772387
   },
   {
     "Time":"2021.07",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":143.7440175087
+    "Value":143.8408218899
   },
   {
     "Time":"2021.07",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":620.745863403
+    "Value":620.9268146899
   },
   {
     "Time":"2021.07",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":115.3271155988
+    "Value":115.3373980258
   },
   {
     "Time":"2021.07",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.1004017927
+    "Value":11.1121887557
   },
   {
     "Time":"2021.07",
@@ -5151,31 +5151,31 @@
     "Time":"2021.07",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":45.6489985704
+    "Value":45.6626275316
   },
   {
     "Time":"2021.07",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":221.4636907654
+    "Value":221.4749545055
   },
   {
     "Time":"2021.07",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":813.0991118299
+    "Value":813.140068609
   },
   {
     "Time":"2021.07",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":188.7360565673
+    "Value":185.9928979957
   },
   {
     "Time":"2021.07",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.121626367
+    "Value":18.1270367582
   },
   {
     "Time":"2021.07",
@@ -5187,7 +5187,7 @@
     "Time":"2021.07",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":31.7862378016
+    "Value":31.7867858016
   },
   {
     "Time":"2021.07",
@@ -5241,61 +5241,61 @@
     "Time":"2021.08",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":24.1667338222
+    "Value":24.2793848282
   },
   {
     "Time":"2021.08",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":194.3661886254
+    "Value":194.551127706
   },
   {
     "Time":"2021.08",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":196.8284993379
+    "Value":200.7895747839
   },
   {
     "Time":"2021.08",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":137.8958797991
+    "Value":137.9252246655
   },
   {
     "Time":"2021.08",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.1884274155
+    "Value":8.2265970164
   },
   {
     "Time":"2021.08",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.0743133539
+    "Value":32.1291604953
   },
   {
     "Time":"2021.08",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":146.476806304
+    "Value":147.249282543
   },
   {
     "Time":"2021.08",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":616.2813974875
+    "Value":616.5665680414
   },
   {
     "Time":"2021.08",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":114.0541920384
+    "Value":114.0705256675
   },
   {
     "Time":"2021.08",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.8629324161
+    "Value":10.8815080528
   },
   {
     "Time":"2021.08",
@@ -5319,31 +5319,31 @@
     "Time":"2021.08",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":46.6305373737
+    "Value":46.6244411762
   },
   {
     "Time":"2021.08",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":224.4672276352
+    "Value":224.4621893947
   },
   {
     "Time":"2021.08",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":818.4599058272
+    "Value":818.4230758186
   },
   {
     "Time":"2021.08",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":177.7372633544
+    "Value":176.3919880544
   },
   {
     "Time":"2021.08",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":18.5112752095
+    "Value":18.5088551561
   },
   {
     "Time":"2021.08",
@@ -5355,7 +5355,7 @@
     "Time":"2021.08",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":31.5228104379
+    "Value":31.5230174379
   },
   {
     "Time":"2021.08",
@@ -5409,61 +5409,61 @@
     "Time":"2021.09",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":26.0328981047
+    "Value":26.2353122744
   },
   {
     "Time":"2021.09",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":191.16558327
+    "Value":191.497886476
   },
   {
     "Time":"2021.09",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":201.1135114896
+    "Value":208.2307065349
   },
   {
     "Time":"2021.09",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":150.8414762731
+    "Value":150.89423975
   },
   {
     "Time":"2021.09",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":8.8207408627
+    "Value":8.8893249647
   },
   {
     "Time":"2021.09",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.3930726206
+    "Value":32.4809642393
   },
   {
     "Time":"2021.09",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":145.695457322
+    "Value":145.4407244695
   },
   {
     "Time":"2021.09",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":640.191113495
+    "Value":640.6480938268
   },
   {
     "Time":"2021.09",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":114.5430760184
+    "Value":114.569124776
   },
   {
     "Time":"2021.09",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.970889844
+    "Value":11.0006569883
   },
   {
     "Time":"2021.09",
@@ -5487,31 +5487,31 @@
     "Time":"2021.09",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":42.8102743724
+    "Value":42.8055113196
   },
   {
     "Time":"2021.09",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":183.7069064354
+    "Value":183.7030099807
   },
   {
     "Time":"2021.09",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":719.2532779148
+    "Value":719.21468941
   },
   {
     "Time":"2021.09",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":198.2175213102
+    "Value":195.8128180474
   },
   {
     "Time":"2021.09",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.9947166672
+    "Value":16.9928258423
   },
   {
     "Time":"2021.09",
@@ -5523,7 +5523,7 @@
     "Time":"2021.09",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":34.7188712924
+    "Value":34.7186662924
   },
   {
     "Time":"2021.09",
@@ -5553,7 +5553,7 @@
     "Time":"2021.10",
     "Sector":"Domestic Aviation",
     "Continent":"Americas",
-    "Value":16.4683999459
+    "Value":16.5253159459
   },
   {
     "Time":"2021.10",
@@ -5577,67 +5577,67 @@
     "Time":"2021.10",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":27.348926794
+    "Value":27.5498418961
   },
   {
     "Time":"2021.10",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":200.6856886822
+    "Value":197.6057408698
   },
   {
     "Time":"2021.10",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":208.7555045746
+    "Value":215.8201776177
   },
   {
     "Time":"2021.10",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":155.4507353781
+    "Value":155.5030888732
   },
   {
     "Time":"2021.10",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.2666515712
+    "Value":9.3347277433
   },
   {
     "Time":"2021.10",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.5659303292
+    "Value":32.6610183218
   },
   {
     "Time":"2021.10",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":146.4275927293
+    "Value":145.6479448194
   },
   {
     "Time":"2021.10",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":590.5578937357
+    "Value":591.052290514
   },
   {
     "Time":"2021.10",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":116.7646208917
+    "Value":116.7927873175
   },
   {
     "Time":"2021.10",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":11.0294333141
+    "Value":11.0616377273
   },
   {
     "Time":"2021.10",
     "Sector":"International Aviation",
     "Continent":"Americas",
-    "Value":5.12457275
+    "Value":5.15456475
   },
   {
     "Time":"2021.10",
@@ -5655,31 +5655,31 @@
     "Time":"2021.10",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":39.6261282607
+    "Value":39.6219800695
   },
   {
     "Time":"2021.10",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":162.490782009
+    "Value":162.8490137106
   },
   {
     "Time":"2021.10",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":689.5577307625
+    "Value":689.5322281095
   },
   {
     "Time":"2021.10",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":200.0082814361
+    "Value":199.0300851173
   },
   {
     "Time":"2021.10",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":15.7306822318
+    "Value":15.7290354931
   },
   {
     "Time":"2021.10",
@@ -5691,7 +5691,7 @@
     "Time":"2021.10",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":47.0216336563
+    "Value":48.3557686563
   },
   {
     "Time":"2021.10",
@@ -5715,139 +5715,139 @@
     "Time":"2021.11",
     "Sector":"Domestic Aviation",
     "Continent":"Africa",
-    "Value":0.4906851208
+    "Value":0.4907288951
   },
   {
     "Time":"2021.11",
     "Sector":"Domestic Aviation",
     "Continent":"Americas",
-    "Value":16.7685012793
+    "Value":16.9391880348
   },
   {
     "Time":"2021.11",
     "Sector":"Domestic Aviation",
     "Continent":"Asia",
-    "Value":6.3641601595
+    "Value":6.3613193261
   },
   {
     "Time":"2021.11",
     "Sector":"Domestic Aviation",
     "Continent":"Europe",
-    "Value":3.4656150998
+    "Value":3.4529695675
   },
   {
     "Time":"2021.11",
     "Sector":"Domestic Aviation",
     "Continent":"Oceania",
-    "Value":0.6939313706
+    "Value":0.6939932766
   },
   {
     "Time":"2021.11",
     "Sector":"Ground Transport",
     "Continent":"Africa",
-    "Value":27.3686118804
+    "Value":27.5343989784
   },
   {
     "Time":"2021.11",
     "Sector":"Ground Transport",
     "Continent":"Americas",
-    "Value":196.1358656753
+    "Value":193.0714972423
   },
   {
     "Time":"2021.11",
     "Sector":"Ground Transport",
     "Continent":"Asia",
-    "Value":205.2485774397
+    "Value":210.7723728031
   },
   {
     "Time":"2021.11",
     "Sector":"Ground Transport",
     "Continent":"Europe",
-    "Value":150.8009755251
+    "Value":150.8629597651
   },
   {
     "Time":"2021.11",
     "Sector":"Ground Transport",
     "Continent":"Oceania",
-    "Value":9.2733214796
+    "Value":9.3294952112
   },
   {
     "Time":"2021.11",
     "Sector":"Industry",
     "Continent":"Africa",
-    "Value":32.2451530882
+    "Value":32.5174325108
   },
   {
     "Time":"2021.11",
     "Sector":"Industry",
     "Continent":"Americas",
-    "Value":145.2731749604
+    "Value":144.858888772
   },
   {
     "Time":"2021.11",
     "Sector":"Industry",
     "Continent":"Asia",
-    "Value":592.4372436461
+    "Value":592.7371004067
   },
   {
     "Time":"2021.11",
     "Sector":"Industry",
     "Continent":"Europe",
-    "Value":119.8477393668
+    "Value":116.9622935435
   },
   {
     "Time":"2021.11",
     "Sector":"Industry",
     "Continent":"Oceania",
-    "Value":10.9207924385
+    "Value":11.013008067
   },
   {
     "Time":"2021.11",
     "Sector":"International Aviation",
     "Continent":"Americas",
-    "Value":5.42812583
+    "Value":5.52950193
   },
   {
     "Time":"2021.11",
     "Sector":"International Aviation",
     "Continent":"Asia",
-    "Value":2.3563039
+    "Value":2.3625294
   },
   {
     "Time":"2021.11",
     "Sector":"International Aviation",
     "Continent":"Europe",
-    "Value":7.2594513
+    "Value":7.2435522
   },
   {
     "Time":"2021.11",
     "Sector":"Power",
     "Continent":"Africa",
-    "Value":40.5628204145
+    "Value":40.5623769774
   },
   {
     "Time":"2021.11",
     "Sector":"Power",
     "Continent":"Americas",
-    "Value":154.1785970855
+    "Value":154.1782306041
   },
   {
     "Time":"2021.11",
     "Sector":"Power",
     "Continent":"Asia",
-    "Value":714.6368634427
+    "Value":721.4790135889
   },
   {
     "Time":"2021.11",
     "Sector":"Power",
     "Continent":"Europe",
-    "Value":230.0093834948
+    "Value":227.3604135016
   },
   {
     "Time":"2021.11",
     "Sector":"Power",
     "Continent":"Oceania",
-    "Value":16.1025279625
+    "Value":16.102351928
   },
   {
     "Time":"2021.11",
@@ -5859,7 +5859,7 @@
     "Time":"2021.11",
     "Sector":"Residential",
     "Continent":"Americas",
-    "Value":86.5623833295
+    "Value":92.7119533295
   },
   {
     "Time":"2021.11",
@@ -5878,5 +5878,173 @@
     "Sector":"Residential",
     "Continent":"Oceania",
     "Value":3.0687024024
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Domestic Aviation",
+    "Continent":"Africa",
+    "Value":0.5527568172
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Domestic Aviation",
+    "Continent":"Americas",
+    "Value":17.5089437297
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Domestic Aviation",
+    "Continent":"Asia",
+    "Value":7.4059392223
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Domestic Aviation",
+    "Continent":"Europe",
+    "Value":3.5941079836
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Domestic Aviation",
+    "Continent":"Oceania",
+    "Value":0.7817137294
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Ground Transport",
+    "Continent":"Africa",
+    "Value":28.0231157971
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Ground Transport",
+    "Continent":"Americas",
+    "Value":196.5226683141
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Ground Transport",
+    "Continent":"Asia",
+    "Value":217.7976692865
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Ground Transport",
+    "Continent":"Europe",
+    "Value":150.3740180087
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Ground Transport",
+    "Continent":"Oceania",
+    "Value":9.4950873936
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Industry",
+    "Continent":"Africa",
+    "Value":33.2212333732
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Industry",
+    "Continent":"Americas",
+    "Value":149.754426969
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Industry",
+    "Continent":"Asia",
+    "Value":629.5118028792
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Industry",
+    "Continent":"Europe",
+    "Value":119.7560995484
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Industry",
+    "Continent":"Oceania",
+    "Value":11.2513714302
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"International Aviation",
+    "Continent":"Americas",
+    "Value":5.92548678
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"International Aviation",
+    "Continent":"Asia",
+    "Value":2.4864437
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"International Aviation",
+    "Continent":"Europe",
+    "Value":7.6817502
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Power",
+    "Continent":"Africa",
+    "Value":44.8733279182
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Power",
+    "Continent":"Americas",
+    "Value":158.3903179139
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Power",
+    "Continent":"Asia",
+    "Value":833.8155680831
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Power",
+    "Continent":"Europe",
+    "Value":236.7676836317
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Power",
+    "Continent":"Oceania",
+    "Value":17.813702553
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Residential",
+    "Continent":"Africa",
+    "Value":16.7208147986
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Residential",
+    "Continent":"Americas",
+    "Value":113.2506038318
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Residential",
+    "Continent":"Asia",
+    "Value":235.4930499056
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Residential",
+    "Continent":"Europe",
+    "Value":174.7509719296
+  },
+  {
+    "Time":"2021.12",
+    "Sector":"Residential",
+    "Continent":"Oceania",
+    "Value":4.0455978344
   }
 ]
